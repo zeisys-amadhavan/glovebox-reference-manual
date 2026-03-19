@@ -24,12 +24,12 @@ Page,ID,Section,Page Title,Status,Filename,Page Brief/Context
 23,A08,ASSESS,Winching Towing Hoisting,Done,A-Winching-Towing-Hoisting.pdf,Force path comparison
 24,A09,ASSESS,Notes,Done,,
 25,A10,ASSESS,Safe Zones & Personnel Placement,To-Do,,Green zones vs exclusion arcs
-26,A11,ASSESS,MASTER PRE-PULL CHECKLIST,To-Do,,"4-corner photo auth, Comms"
+26,A11,ASSESS,MASTER PRE-PULL CHECKLIST,To-Do,,4-corner photo auth; Comms
 27,A12,ASSESS,Operator Readiness & Fatigue,To-Do,,Dehydration and stress markers
 28,A13,ASSESS,Notes,Done,,
 29,B00,BASELINE,SECTION INTRO: BASELINE,To-Do,,Establishing Load & Environment
 30,B01,BASELINE,Notes,Done,,
-31,B02,BASELINE,Anchor Mobile,Done,B-Anchor-Mobile.pdf,"Requirements: brakes, chocks"
+31,B02,BASELINE,Anchor Mobile,Done,B-Anchor-Mobile.pdf,Requirements: brakes; chocks
 32,B03,BASELINE,Notes,Done,,
 33,B04,BASELINE,Estimating Weight,Done,B-Estimating-Weight.pdf,Vehicle silhouettes
 34,B05,BASELINE,Notes,Done,,
@@ -47,7 +47,7 @@ Page,ID,Section,Page Title,Status,Filename,Page Brief/Context
 46,C05,COMPONENT,Notes,Done,,
 47,C06,DESIGN,Winch Label,Done,C-Winch-Label.pdf,Verify winch capacity (WLL) against the designed rigging load.
 48,C07,DESIGN,Notes,Done,,
-49,C08,DESIGN,Powered By,Done,,Design around power constraints (duty cycle, battery, or hydraulic limits).
+49,C08,DESIGN,Powered By,Done,,Design around power constraints (duty cycle; battery; or hydraulic limits).
 50,C09,DESIGN,Notes,Done,,
 51,C10,COMPONENT,Recovery Vehicle Specs,Done,,Traction and anchor labels
 52,C11,COMPONENT,Notes,Done,,
@@ -85,9 +85,9 @@ Page,ID,Section,Page Title,Status,Filename,Page Brief/Context
 84,C43,COMPONENT,Notes,Done,,
 85,C44,ENGINEER,Safe Loading Zones,Done,,The engineering limits of hardware: vector forces and side-loading risks.
 86,C45,ENGINEER,Notes,Done,,
-87,C46,COMPONENT,Winch System Components,Done,C-Winch-System-Components.pdf,A–P labeled diagram
+87,C46,COMPONENT,Winch System Components,Done,C-Winch-System-Components.pdf,A-P labeled diagram
 88,C47,COMPONENT,Notes,Done,,
-89,C48,BASELINE,Winching 101,Done,C-Winching-101.pdf,Establishes the standard 1:1 direct pull as the "zero-point" baseline.
+89,C48,BASELINE,Winching 101,Done,C-Winching-101.pdf,Establishes the standard 1:1 direct pull as the zero-point baseline.
 90,C49,BASELINE,Notes,Done,,
 91,C50,COMPONENT,Reject/Accept: Hardware,To-Do,,Rust/pitting photos
 92,C51,COMPONENT,Notes,Done,,
@@ -100,7 +100,7 @@ Page,ID,Section,Page Title,Status,Filename,Page Brief/Context
 99,D06,DESIGN,Strategic Pathing,To-Do,,Anchor priority ladder
 100,D07,DESIGN,Safe Zone Mapping,To-Do,,Failure arcs vs personnel
 101,D08,DESIGN,Notes,Done,,
-102,D09,DESIGN,Damper Placement,To-Do,,"The ""1/3rd Rule"""
+102,D09,DESIGN,Damper Placement,To-Do,,"The 1/3rd Rule"
 103,D10,DESIGN,Notes,Done,,
 104,E00,ENGINEER,SECTION INTRO: ENGINEER,To-Do,,Vector Physics & Stress
 105,E01,ENGINEER,Notes,Done,,
