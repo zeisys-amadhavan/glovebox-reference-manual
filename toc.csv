@@ -1,7 +1,5 @@
 Page,Section,Page Title,Status,Filename,Gemini Suggestions, Grok Suggestions
 1,Admin,Front Cover,To-Do,,"High-vis branding; Title: 'Heavy Recovery Field Manual'; Version/Unit ID space.","High-contrast title in bold sans-serif; large recovery icon (winch hook + rope); color bar for section quick-ID; small safety skull icon bottom-right; blank space for handwritten unit/owner ID."
-2,Admin,Blank (Inside Front Cover),Done,,
-4,Admin,Blank,Done,,
 5,Admin,Full Title Page,To-Do,,"Title; Subtitle; Author/Organization; Publisher info; technical standards (SAE/ISO) icons.","Full title block; small icons row for SAE J3027 / ISO 19472 / kinetic energy standards; publisher/org crest or logo; edition/version stamp."
 6,Admin,Copyright / ISBN / Credits,To-Do,,"Legal boilerplate; ISBN; Printing history; attribution for technical advisors.","Standard copyright block; QR code to online errata (if any); credits icons for contributors/advisors; first printing date field."
 7,Admin,Dedication / Preface,To-Do,,"Brief intro on the mission of the manual; safety-first culture statement.","Single paragraph max 60 words; large bold 'SAFETY FIRST' header; small icon of locked helmet + crossed winch line."
