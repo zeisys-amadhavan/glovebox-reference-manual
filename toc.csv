@@ -1,9 +1,9 @@
 Page,ID,Section,Page Title,Status,Filename,Page Brief/Context
-1,i,Admin,Front Cover,To-Do,,"High-vis branding; Title: 'Heavy Recovery Field Manual'"
+1,i,Admin,Front Cover,To-Do,,"High-vis branding; Title: ""Heavy Recovery Field Manual"""
 2,ii,Admin,Blank (Inside Front Cover),Done,,,""
 3,iii,Admin,Half Title Page,To-Do,,"Minimalist title page"
 4,iv,Admin,Blank,Done,,,""
-5,v,Admin,Full Title Page,To-Do,,"Title; Standards (SAE/ISO) icons"
+5,v,Admin,Full Title Page,To-Do,, "Title; Standards (SAE/ISO) icons"
 6,vi,Admin,Copyright / ISBN / Credits,To-Do,,"Legal boilerplate; ISBN"
 7,vii,Admin,Dedication / Preface,To-Do,,"Safety-first culture statement"
 8,viii,Admin,Blank,Done,,,""
