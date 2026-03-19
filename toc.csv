@@ -1,238 +1,117 @@
-Page,Formatted Page,Section,Title,Status,Visual/Instruction,Filename,Notes
-1,i,Admin,Front Cover,To-Do,High-vis FIELD MANUAL branding; Unit ID space; durable matte finish,,
-2,ii,Admin,Blank Page,Done,,,
-3,iii,Admin,Title Page,To-Do,"Large bold title + subtitle ""Winch Recovery Field Guide"" + author/vehicle unit space",,
-4,iv,Admin,Copyright & Metadata,To-Do,ISBN placeholder; copyright year; SAE/ISO compliance note; printing info,,
-5,v,Admin,Blank Page,Done,,,
-6,vi,Admin,Dedication / Blank,To-Do,Dedication,,
-7,viii,Admin,Blank Page,Done,,,
-8,ix,Admin,Standards & Compliance,To-Do,SAE J706; ISO 19353 logos + current revision dates,,
-9,x,Admin,Blank,Done,Blank,,
-10,xi,Admin,Safety Disclaimer / Limits,To-Do,Icon-heavy liability boundaries + no-guarantee clause,,
-11,xii,Admin,Blank,Done,Blank,,
-12,xiii,Admin,Visual Index / Quick-Find,To-Do,5×5 thumbnail gallery + section icons + page numbers,,
-13,xiv,Admin,Blank,Done,Blank,,
-14,A00,Assess,ASSESS SECTION HEADER,To-Do,Mini-TOC table: list of all A pages with icons (A01–A72) + quick-find arrows,,
-15,A01,Assess,Notes,Done,,,
-16,A02,Assess,Go / No-Go Decision,Done,Grid: thumbs-up green vs red stop-hand/skull icons,A02-go-no-go-decision.pdf,
-17,A03,Assess,Notes,Done,,,
-18,A04,Assess,Primary Kill Zone,Done,Bird’s-eye recoil corridors + exclusion shading,A04-primary-kill-zone.pdf,
-19,A05,Assess,Notes,Done,,,
-20,A06,Assess,Flat Terrain Kill Zones,Done,Whiplash / anchor / projectile + combined kill zone map,,
-21,A07,Assess,Notes,Done,,,
-22,A08,Assess,Recoil Dynamics,To-Do,Steel S-curve vs Synthetic vertical drop; high/low energy icons,,
-23,A09,Assess,Notes,Done,,,
-24,A10,Assess,Retreat Paths & Safe Havens,To-Do,Operator/bystander safe havens with dashed escape routes,A10-retreat-paths-safe-havens.pdf,
-25,A11,Assess,Notes,Done,,,
-26,A12,Assess,Weather & Night Factors,To-Do,Icon grid: lightning; wind; rain; mud; cold; heat; thresholds + night lighting comparison,A12-weather-night-factors.pdf,
-27,A13,Assess,Notes,Done,,,
-28,A14,Assess,Communications Protocol,To-Do,Comic-strip: sender-receiver repeat-back protocol (radio/voice),,
-29,A15,Assess,Notes,Done,,,
-30,A16,Assess,Public / Roadside Safety,To-Do,Scene-control: bystanders; roadway hazards; cones/taper placement,,
-31,A17,Assess,Notes,Done,,,
-32,A18,Assess,Failure Modes Matrix,To-Do,Icon matrix: rope snap; pull-out; overheat; shackle stretch; skull icons,,
-33,A19,Assess,Notes,Done,,,
-34,A20,Assess,Scene Risk Scan + Rollover Envelope,To-Do,Top-down hazards + inset COG/pivot/skull slope diagram,,
-35,A21,Assess,Notes,Done,,,
-36,A22,Assess,Redirect Hazard Zones,To-Do,Safety triangle + redirect recoil arcs,,
-37,A23,Assess,Notes,Done,,,
-38,A24,Assess,Spotter Sightlines & Perimeter,To-Do,Top-down LOS cone + bystander control icons,,
-39,A25,Assess,Notes,Done,,,
-40,A26,Assess,ICS Org Chart (Roles),Done,Isometric layout: IC,,
-41,A27,Assess,Notes,Done,,,
-42,A28,Assess,ICS Form 201,Done,Incident briefing map box; situation summary; tactical objectives,A29-ICS-Form-201.pdf,
-43,A29,Assess,Notes,Done,Lined paper,A29-notes.pdf,
-44,A30,Assess,ICS Form 214,Done,Filled Activity Log example; time; event; personnel columns; icon-led headers,A30-ics-form-214.pdf,
-45,A31,Assess,Notes,Done,,,
-46,A32,Assess,Hardware Pre-Check,To-Do,Rigging point audit checklist + go/no-go icons,,
-47,A33,Assess,Quick Rigging Checklist,To-Do,Pre-tension checks: MA setup; redirect; damper; spotter; clear line,,"Added from previous TOC"
-48,A34,Assess,Notes,Done,,,
-49,A35,Assess,Rated Recovery Points,To-Do,Comparison: safe frame points vs unsafe axle/bumper + loading arcs,,
-50,A36,Assess,Notes,Done,,,
-51,B00,Baseline,BASELINE SECTION HEADER,To-Do,Mini-TOC table: list of all B pages with icons (B01–B49) + quick-find arrows,,
-52,B01,Baseline,Notes,Done,,,
-53,B02,Baseline,Estimating Weight,Done,Vehicle silhouettes + dimension/weight/additional >100kg table,B02-estimating-weight.pdf,
-54,B03,Baseline,Notes,Done,,,
-55,B04,Baseline,Stuck Severity Levels,To-Do,5-stage progression: lightly stuck to frame-buried; load multipliers,B04-stuck-severity-levels.pdf,
-56,B05,Baseline,Notes,Done,,,
-57,B06,Baseline,Pull Resistance Matrix,To-Do,Heat-map table: terrain/slope resistance; green-yellow-red bands,,
-58,B07,Baseline,The Pull Matrix,To-Do,Vehicle weight × terrain × slope multipliers lookup table,,"Added from previous TOC – quick field reference"
-59,B08,Baseline,Notes,Done,,,
-60,B09,Baseline,Soil Angles & Holding Power,Done,Wedge strength + slip tendency diagrams,B04-soil-angles-holding-power.pdf,
-61,B10,Baseline,Anchor Adequacy – 3-Stage Test,To-Do,Stable anchor → loaded test → failure indicators visual checklist,,"Added from previous TOC"
-62,B11,Baseline,Notes,Done,,,
-63,B12,Baseline,Mud Suction Physics,To-Do,Vacuum seal cross-section + break tactics icons,,
-64,B13,Baseline,Notes,Done,,,
-65,B14,Baseline,Sand Flotation (PSI),To-Do,High vs low pressure footprint comparison,,
-66,B15,Baseline,Notes,Done,,,
-67,B16,Baseline,Frame Drag + Axle-Deep Tactics,To-Do,Plowing resistance spike + clearing tires to reduce resistance/change geometry,,"Added from previous TOC"
-68,B17,Baseline,Uphill / Downhill Tactics,To-Do,Gravity vs traction vector diagrams on incline,,
-69,B18,Baseline,Downhill Braking / Restraint-Belay,To-Do,Controlled descent techniques with belay system diagram,,"Added from previous TOC – critical safety"
-70,B19,Baseline,Notes,Done,,,
-71,B20,Baseline,Terrain Scenario Overview,To-Do,2×3 icon grid + small force vectors per terrain,,
-72,B21,Baseline,Notes,Done,,,
-73,B22,Baseline,Anchor Mobile,Done,Disabled vehicle as anchor: traction; brake; chocks diagram,B20-anchor-mobile.pdf,
-74,B23,Baseline,Notes,Done,,,
-75,C00,Components,COMPONENTS SECTION HEADER,To-Do,Mini-TOC table: list of all C pages with icons (C01–C89) + quick-find arrows,,
-76,C01,Components,Notes,Done,,,
-77,C02,Components,Winch System Components,Done,Isometric plate A–P labeled icons + legend list,C02-winch-system-components.pdf,
-78,C03,Components,Notes,Done,,,
-79,C04,Components,Winch 101,Done,Isometric full setup + numbered callouts,C04-winch-101.pdf,
-80,C05,Components,Notes,Done,,,
-81,C06,Components,Winch Label,Done,Winch data plate with ratings; intermittent pull; voltage barcode,C06-winch-label.pdf,
-82,C07,Components,Notes,Done,,,
-83,C08,Components,Winch Basics (Layers),Done,Pull rating vs drum layers graph + labels,C08-winch-basics-layers.pdf,
-84,C09,Components,Notes,Done,,,
-85,C10,Components,Winch Breakout,Done,Cross-section: gear train; brake; motor; drum labels,C10-winch-breakout.pdf,
-86,C11,Components,Notes,Done,,,
-87,C12,Components,Winch Clutch & Remote,Done,Lever positions + remote sequence diagram,C12-winch-clutch-remote.pdf,
-88,C13,Components,Notes,Done,,,
-89,C14,Components,Fairleads & Hook Isolator,Done,Roller vs Hawse + hook seating views,C14-fairleads-hook-isolator.pdf,
-90,C15,Components,Notes,Done,,,
-91,C16,Components,Fairleads,Done,Roller vs Hawse comparison; wear points; underwind/overwind,C16-fairleads.pdf,
-92,C17,Components,Notes,Done,,,
-93,C18,Components,Snatch Blocks,Done,Sheave/latch/side-plate schematic + views,C18-snatch-blocks.pdf,
-94,C19,Components,Notes,Done,,,
-95,C20,Components,Hard & Soft Shackles,Done,Pin seating + knot/loop closing sequence,C14-hard-soft-shackles.pdf,
-96,C21,Components,Shackle Cheat Sheet,To-Do,Common sizes; WLL reference table + visual cues,,"Added from previous TOC – quick ref"
-97,C22,Components,Notes,Done,,,
-98,C23,Components,Tree Saver & Straps,Done,Wide strap load spread + basket/choker methods,C16-tree-saver-straps.pdf,
-99,C24,Components,Notes,Done,,,
-100,C25,Components,Line / Cable Stopper,To-Do,Placement; assembly diagram; standoff distance; storage view,C34-line-cable-stopper.pdf,
-101,C26,Components,Notes,Done,,,
-102,C27,Components,Synthetic Rope Primer & Specs,Done,12-strand braid + diameter/WLL/MBS bands,C26-synthetic-rope-primer-specs.pdf,
-103,C28,Components,Notes,Done,,,
-104,C29,Components,Winch Spooling Guide,To-Do,Proper tight layers vs cross-wrap/loose/buried line comparison,C32-winch-spooling-guide.pdf,
-105,C30,Components,Notes,Done,,,
-106,C31,Components,Winch Mounting Exposure,To-Do,Mounting types comparison: exposed/recessed/concealed load path,C33-winch-mounting-exposure.pdf,
-107,C32,Components,Notes,Done,,,
-108,C33,Components,Winch Line Splicing,Done,Step-by-step taper; bury; lock; dressing sequence,C32-winch-line-splicing.pdf,
-109,C34,Components,Notes,Done,Lined paper,C33-notes.pdf,
-110,C35,Components,Synthetic Rope Criteria,Done,Inspection: glazing; cuts; abrasion; contamination; retirement,C34-synthetic-rope-criteria.pdf,
-111,C36,Components,Notes,Done,Lined paper,C37-notes.pdf,
-112,C37,Components,Synthetic Rope Sizing,Done,Diameter table; MBS/WLL; end termination types,C36-synthetic-rope-sizing.pdf,
-113,C38,Components,Notes,Done,Lined paper,C39-notes.pdf,
-114,C39,Components,Synthetic Rope Care,Done,Full working length inspection; damage icons; cleaning steps,C39-synthetic-rope-care.pdf,
-115,C40,Components,Notes,Done,Lined paper,C41-notes.pdf,
-116,C41,Components,Full Gear Inspection Matrix,To-Do,Grid: damage icons for all hardware + retire/keep verdicts,C40-full-gear-inspection-matrix.pdf,
-117,C42,Components,Notes,Done,,,
-118,C43,Components,Line Dampeners & Edge Protection,To-Do,1/3 rule placement + sharp-edge sleeves/guards,C42-line-dampeners-edge-protection.pdf,
-119,C44,Components,Notes,Done,,,
-120,C45,Components,Ground Anchor Installation,To-Do,Stake angle; pull direction; spacing; holding logic diagram,C26-ground-anchor-installation.pdf,
-121,C46,Components,Notes,Done,,,
-122,C47,Components,Deadman Tire Anchor,To-Do,Cross-section: trench geometry; burial depth; soil load zone,,
-123,C48,Components,Notes,Done,,,
-124,C49,Components,Deadman Log Anchor,To-Do,Cross-section: T-trench concept; attachment; load distribution,,
-125,C50,Components,Notes,Done,,,
-126,C51,Components,2-Point Bridle Equalizer,To-Do,Two-anchor bridle: equalized load sharing; pull alignment,,
-127,C52,Components,Notes,Done,,,
-128,C53,Components,3-Point Bridle,To-Do,Self-leveling balanced force distribution across 3 points,,
-129,C54,Components,Notes,Done,,,
-130,C55,Components,Natural Anchors (Boulders/Stumps),To-Do,Wrap logic; direction; load distribution for natural features,,"Added from previous TOC"
-131,C56,Components,Notes,Done,,,
-132,C57,Components,Soil Anchor Failure Signs,To-Do,Visual indicators: cracking; upheaval; slumping; upheaval arrows,,
-133,C58,Components,Notes,Done,,,
-134,C59,Components,Anchor Site Map (Blank Sketch),To-Do,Blank page with faint grid/guide lines for field anchor layout sketching,,"Added from previous TOC – practical field tool"
-135,C60,Components,Notes,Done,,,
-136,C61,Components,Full Gear Inspection Matrix,To-Do,Grid: damage icons for all hardware + retire/keep verdicts,C40-full-gear-inspection-matrix.pdf,Shifted from original C41
-137,C62,Components,Notes,Done,Lined paper,C41-notes.pdf,
-138,C63,Components,Line Dampeners & Edge Protection,To-Do,1/3 rule placement + sharp-edge sleeves/guards,C42-line-dampeners-edge-protection.pdf,Shifted
-139,C64,Components,Notes,Done,,,
-140,C65,Components,Ground Anchor Installation,To-Do,Stake angle; pull direction; spacing; holding logic diagram,C26-ground-anchor-installation.pdf,Shifted
-141,C66,Components,Notes,Done,,,
-142,C67,Components,Deadman Tire Anchor,To-Do,Cross-section: trench geometry; burial depth; soil load zone,,Shifted
-143,C68,Components,Notes,Done,,,
-144,C69,Components,Deadman Log Anchor,To-Do,Cross-section: T-trench concept; attachment; load distribution,,Shifted
-145,C70,Components,Notes,Done,,,
-146,C71,Components,2-Point Bridle Equalizer,To-Do,Two-anchor bridle: equalized load sharing; pull alignment,,Shifted
-147,C72,Components,Notes,Done,,,
-148,C73,Components,3-Point Bridle,To-Do,Self-leveling balanced force distribution across 3 points,,Shifted
-149,C74,Components,Notes,Done,,,
-150,C75,Components,Soil Anchor Failure Signs,To-Do,Visual indicators: cracking; upheaval; slumping; upheaval arrows,,Shifted from original C54
-151,C76,Components,Notes,Done,,,
-152,E00,Engineering,ENGINEERING SECTION HEADER,To-Do,Mini-TOC table: list of all E pages with icons (E01–E39) + quick-find arrows,,Adjusted range for insertions
-153,E01,Engineering,Notes,Done,,,
-154,E02,Engineering,Mechanical Advantage,Done,1:1 / 2:1 / 3:1 vector force diagrams,E02-mechanical-advantage.pdf,
-155,E03,Engineering,Notes,Done,,,
-156,E04,Engineering,WLL and MBS,Done,Safety factor graphic + consequences table,E04-wll-and-mbs.pdf,
-157,E05,Engineering,Notes,Done,,,
-158,E06,Engineering,50% Rule & Weakest Link,To-Do,Gauge + exploded rigging with limiting component,E06-50-rule-weakest-link.pdf,
-159,E07,Engineering,Notes,Done,,,
-160,E08,Engineering,Vertical Angle & Side Load,Done,Force multipliers + lateral stress visualization,E06-vertical-angle-side-load.pdf,
-161,E09,Engineering,Notes,Done,,,
-162,E10,Engineering,Derating & Friction Loss,To-Do,Charts: knots / angles / sheave efficiency + quick lookup + rope-type vs block-count efficiency bars,,"Enhanced with Friction Table from previous TOC"
-163,E11,Engineering,Notes,Done,,,
-164,E12,Engineering,Shock Loading Effects,To-Do,Steady tension vs sudden impact spike; energy comparison arrows,,
-165,E13,Engineering,Notes,Done,,,
-166,E14,Engineering,Side Pull Stress,To-Do,Lateral load visualization: fairlead/winch mount/frame stress zones,,
-167,E15,Engineering,Notes,Done,,,
-168,E16,Engineering,Cross-Slope Stabilization,To-Do,Lateral lines; rollover/slide resistance vectors; COG inset,,
-169,E17,Engineering,Notes,Done,Lined paper,E17-notes.pdf,
-170,E18,Engineering,High-Center Recovery,To-Do,Vehicle on obstacle; lift/ramp/force-path options diagram,E18-high-center-recovery.pdf,
-171,E19,Engineering,Notes,Done,,,
-172,E20,Engineering,Load Vectors Vertical,Done,0° recovery geometry; vehicle-to-vehicle + self-recovery,E17-load-vectors-vertical.pdf,
-173,E21,Engineering,Notes,Done,,,
-174,E22,Engineering,Load Vectors Horizontal Deviation,Done,Side angle force multiplication + deviation effects,E18-load-vectors-horizontal-deviation.pdf,
-175,E23,Engineering,Notes,Done,,,
-176,E24,Engineering,Mud Suction Physics (cross-ref),To-Do,Vacuum seal + break tactics (detailed engineering view),,Cross-reference to Baseline
-177,E25,Engineering,Notes,Done,,,
-178,E26,Engineering,Sand Flotation Physics,To-Do,Pressure footprint + flotation mechanics,,
-179,E27,Engineering,Notes,Done,,,
-180,E28,Engineering,Uphill / Downhill Force Vectors,To-Do,Advanced gravity/traction diagrams,,
-181,E29,Engineering,Notes,Done,,,
-182,E30,Engineering,Frame Drag Physics,To-Do,Resistance modeling for plowing/axle-deep scenarios,,"Engineering expansion of Baseline addition"
-183,E31,Engineering,Notes,Done,,,
-184,E32,Engineering,Shock & Dynamic Load Factors,To-Do,Spike multipliers + energy absorption,,
-185,E33,Engineering,Notes,Done,,,
-186,E34,Engineering,Multi-Point Load Sharing,To-Do,3-way spider / bridle force distribution math,,
-187,E35,Engineering,Notes,Done,,,
-188,E36,Engineering,The Pull Matrix (Engineering View),To-Do,Detailed version with formulas + examples,,"Cross-reference/enhancement of Baseline B07"
-189,E37,Engineering,Notes,Done,,,
-190,F00,Field,FIELD SECTION HEADER,To-Do,Mini-TOC table: list of all F pages with icons (F01–F31) + quick-find arrows,,
-191,F01,Field,Notes,Done,,,
-192,F02,Field,Single Line Pull (1:1),Done,Direct line blueprint + step labels,F02-single-line-pull-11.pdf,
-193,F03,Field,Notes,Done,,,
-194,F04,Field,Double Line Pull (2:1),Done,Snatch block return + MA force arrows,F04-double-line-pull-21.pdf,
-195,F05,Field,Notes,Done,,,
-196,F06,Field,Triple Line Pull (3:1),Done,Dual snatch block power diagram,F06-triple-line-pull-31.pdf,
-197,F07,Field,Notes,Done,,,
-198,F08,Field,Redirect Pull & Static,Done,Direction change + controlled hold geometry,F08-redirect-pull-static.pdf,
-199,F09,Field,Notes,Done,,,
-200,F10,Field,Spanish Burton Pull,Done,Compound 4:1 rigging; line path and movement labels,F12-spanish-burton-pull.pdf,
-201,F11,Field,Notes,Done,,,
-202,F12,Field,Spanish Burton Static,Done,Static compound rig held in controlled geometry,F12-spanish-burton-static.pdf,
-203,F13,Field,Notes,Done,Lined paper,F13-notes.pdf,
-204,F14,Field,Spanish Burton Offset,Done,Extreme-angle or constrained-path compound rigging,F14-spanish-burton-offset.pdf,
-205,F15,Field,Notes,Done,,,
-206,F16,Field,Notes,Done,,,
-207,G00,Go,GO SECTION HEADER,To-Do,Mini-TOC table: list of all G pages with icons (G01–G21) + quick-find arrows,,
-208,G01,Go,Notes,Done,,,
-209,G02,Go,Hand Signals – In/Out & Stop/E-Stop,To-Do,Dual gesture grids + motion arrows,,
-210,G03,Go,Notes,Done,,,
-211,G04,Go,Winch Tips,Done,Operational tips grid: RPM guideline clock; duty cycle timing; PPE + Safety + Useful Equipment icon grid with list,G04-winch-tips.pdf,
-212,G05,Go,Notes,Done,,,
-213,G06,Go,Winch Troubleshooting / Duty Cycle / Birdnest Fix,To-Do,Flowchart + heat timing + re-spool sequence + electrical issues branch,,"Enhanced with electrical flowchart from previous TOC"
-214,G07,Go,Notes,Done,,,
-215,G08,Go,Emergency Abort Cues,To-Do,Visual/audible/smoke/fray/shift warning icons + detailed E-Stop protocol,,"Enhanced with protocol from previous TOC"
-216,G09,Go,Notes,Done,,,
-217,G10,Go,System Reset / Post-Operation Checklist,To-Do,Cleaning; reinspection; reset; readiness checklist,,"Added from previous TOC"
-218,G11,Go,Notes,Done,,,
-219,X00,Extension,EXTENSION SECTION HEADER,To-Do,Mini-TOC table: list of all X pages with icons (X01–X23) + quick-find arrows,,
-220,X01,Extension,Blank,Done,Blank,,
-221,X02,Extension,Waiver Form (Page 1),Done,Liability release + identity fields,X02-waiver-form-page-1.pdf,
-222,X03,Extension,Blank,Done,Blank,,
-223,X04,Extension,Waiver Form (Page 2),Done,Vehicle description + terms/conditions,X04-waiver-form-page-2.pdf,
-224,X05,Extension,Blank,Done,Blank,,
-225,X06,Extension,Waiver Form (Page 3),Done,Signatures + date + witness line,X06-waiver-form-page-3.pdf,
-226,X07,Extension,Blank,Done,Blank,,
-227,X08,Extension,Incident Report Log,To-Do,Structured fields: time/location/conditions/damage/outcome,,
-228,X09,Extension,Blank,Done,Blank,,
-229,X10,Extension,Maintenance & Gear Inventory,To-Do,Dual checklists: date/action + kit contents,,
-230,X11,Extension,Shackle Cheat Sheet (Quick Ref),To-Do,Common sizes; WLL reference table + visual cues,,Duplicate/cross-ref of C21 for field use
-231,X12,Extension,Notes,Done,,,
-232,xv,Admin,Inside Back Cover,To-Do,Faint quick-reference cheat sheet layout or contacts,,
-233,xvi,Admin,Back Cover,To-Do,Emergency contacts + final reminders + durable finish,,
-234,xvii,Admin,Blank Endpaper,Done,Blank,,
-235,xviii,Admin,Blank Endpaper,Done,Blank,,
-236,xix,Admin,Blank (binding filler),Done,Blank,,
-237,xx,Admin,Blank (binding filler),Done,Blank,,
+Page,Section,Page Title,Status,Filename
+1,Admin,Front Cover,To-Do,
+3,Admin,Title / Standards,To-Do,
+5,Admin,Disclaimer / Limits,To-Do,
+7,Admin,Visual Index,To-Do,
+9,Admin,Blank,Done,
+11,ASSESS,SECTION INTRO: ASSESS,To-Do,
+13,ASSESS,Flat Terrain Kill Zones,Done,A-Flat-Terrain-Kill-Zones.pdf
+15,ASSESS,Personnel Safe Zones (Safe Pockets/Spotter Ops),To-Do,
+17,ASSESS,Go No Go Decision,Done,A-Go-No-Go-Decision.pdf
+19,ASSESS,Incident Command Structure,Done,A-Incident-Command-Structure.pdf
+21,ASSESS,Winching Towing Hoisting,Done,A-Winching-Towing-Hoisting.pdf
+23,ASSESS,IMMEDIATE SAFETY: PPE & Hazard Scan,To-Do,
+25,ASSESS,COMMAND & CONTROL: IC & Comms Protocol,To-Do,
+27,ASSESS,AUTHORIZATION: Waivers & Scene Documentation,To-Do,
+29,ASSESS,Environment Scan: Lightning/Tide/Sunset,To-Do,
+31,ASSESS,Operator Readiness & Fatigue Triggers,To-Do,
+33,BASELINE,SECTION INTRO: BASELINE,To-Do,
+35,BASELINE,Anchor Mobile,Done,B-Anchor-Mobile.pdf
+37,BASELINE,Estimating Weight,Done,B-Estimating-Weight.pdf
+39,BASELINE,Soil Type and Load Factors,Done,B-Soil-Type-and-Load-Factors.pdf
+41,BASELINE,Combined Vehicle + Terrain Load Multiplier,To-Do,
+43,BASELINE,Burial Depth Visuals (Axle vs Frame),To-Do,
+45,BASELINE,Incline/Gradient Measurement Guide,To-Do,
+47,BASELINE,Suction/Vacuum Seal Indicators,To-Do,
+49,BASELINE,Natural Anchor Health (DBH/Roots),To-Do,
+51,BASELINE,Dynamic Baseline: Condition Shift Tracking,To-Do,
+53,COMPONENT,SECTION INTRO: COMPONENT,To-Do,
+55,COMPONENT,Anchor Ground,Done,C-Anchor-Ground.pdf
+57,COMPONENT,Fairleads,Done,C-Fairleads.pdf
+59,COMPONENT,Load Only On,Done,
+61,COMPONENT,Low Stored Energy,Done,
+63,COMPONENT,Powered By,Done,
+65,COMPONENT,Recovery Vehicle,Done,
+67,COMPONENT,Snatch Block,Done,
+69,COMPONENT,Synthetic Rope Care,Done,C-Synthetic-Rope-Care.pdf
+71,COMPONENT,Synthetic Rope Criteria,Done,C-Synthetic-Rope-Criteria.pdf
+73,COMPONENT,Synthetic Rope Primer,Done,C-Synthetic-Rope-Primer.pdf
+75,COMPONENT,Synthetic Rope Sizing,Done,C-Synthetic-Rope-Sizing.pdf
+77,COMPONENT,Tree Saver,Done,
+79,COMPONENT,Winch Basics,Done,C-Winch-Basics.pdf
+81,COMPONENT,Winch Exploded View,Done,C-Winch-Exploded-View.pdf
+83,COMPONENT,Winch Label,Done,C-Winch-Label.pdf
+85,COMPONENT,Winch Line Hook Isolator,Done,C-Winch-Line-Hook-Isolator.pdf
+87,COMPONENT,Winch Line Stopper,Done,C-Winch-Line-Stopper.pdf
+89,COMPONENT,Hard Shackles,Done,C-Hard-Shackles.pdf
+91,COMPONENT,Snatch Blocks,Done,C-Snatch-Blocks.pdf
+93,COMPONENT,Soft Shackles,Done,C-Soft-Shackles.pdf
+95,COMPONENT,Synthetic Rope Specs,Done,C-Synthetic-Rope-Specs.pdf
+97,COMPONENT,Tree Savers,Done,C-Tree-Savers.pdf
+99,COMPONENT,Winch System Components,Done,C-Winch-System-Components.pdf
+101,COMPONENT,Winching 101,Done,C-Winching-101.pdf
+103,COMPONENT,Reject/Accept Gallery: Hardware/Steel,To-Do,
+105,DESIGN,SECTION INTRO: DESIGN,To-Do,
+107,DESIGN,Mechanical Advantage,Done,D-Mechanical-Advantage.pdf
+109,DESIGN,WLL and MBS,Done,D-WLL-and-MBS.pdf
+111,DESIGN,Redirect Angle Effects (Side-Load Warning),To-Do,
+113,DESIGN,Objective: Self vs Assisted Flow,To-Do,
+115,DESIGN,Exit Path: Natural Alleyway ID,To-Do,
+117,DESIGN,Main Anchor Strategy & Selection,To-Do,
+119,DESIGN,Strategic Redirect: Pathing Geometry,To-Do,
+121,DESIGN,Consequence Awareness: Failure Move Paths,To-Do,
+123,DESIGN,Safe Zone Mapping: Personnel Placement,To-Do,
+125,ENGINEER,SECTION INTRO: ENGINEER,To-Do,
+127,ENGINEER,Load Vectors Horizontal,Done,E-Load-Vectors-Horizontal.pdf
+129,ENGINEER,Load Vectors Vertical,Done,E-Load-Vectors-Vertical.pdf
+131,ENGINEER,Vertical Angle Zero Degree Recovery,Done,E-Vertical-Angle-Zero-Degree-Recovery.pdf
+133,ENGINEER,Required Line Pull (RLP) Estimator Chart,To-Do,
+135,ENGINEER,Vector Math: Angle Force Multipliers,To-Do,
+137,ENGINEER,Anchor Shift Failure Path (Soil Failure),To-Do,
+139,ENGINEER,Sudden Load Spike Triggers (Timeline/Slack),To-Do,
+141,ENGINEER,Failure Path Analysis: Bisector Danger,To-Do,
+143,ENGINEER,Failure Direction Quick Reference,To-Do,
+145,ENGINEER,MA Selection Logic (1:1/2:1/3:1),To-Do,
+147,ENGINEER,Stored Energy / Catenary Analysis,To-Do,
+149,ENGINEER,Winch Layer Capacity vs RLP Check,To-Do,
+151,ENGINEER,Weakest Link Identification Guide,To-Do,
+153,FIELD,SECTION INTRO: FIELD,To-Do,
+155,FIELD,Incident Briefing Form ICS 201,Done,F99-Incident-Briefing-Form-ICS-201.pdf
+157,FIELD,Double Line Pull,Done,F01-Double-Line-Pull.pdf
+159,FIELD,Double Line Static Offset Anchor,Done,F01-Double-Line-Static-Offset-Anchor.pdf
+161,FIELD,Double Line Static Vehicle Anchor,Done,F01-Double-Line-Static-Vehicle-Anchor.pdf
+163,FIELD,Double Line Static,Done,F01-Double-Line-Static.pdf
+165,FIELD,Single Line Pull,Done,F01-Single-Line-Pull.pdf
+167,FIELD,Single Line Redirect Pull,Done,F01-Single-Line-Redirect-Pull.pdf
+169,FIELD,Single Line Redirect Static,Done,F01-Single-Line-Redirect-Static.pdf
+171,FIELD,Single Line Static Offset Anchor,Done,F01-Single-Line-Static-Offset-Anchor.pdf
+173,FIELD,Single Line Static Vehicle Anchor,Done,F01-Single-Line-Static-Vehicle-Anchor.pdf
+175,FIELD,Single Line Static,Done,F01-Single-Line-Static.pdf
+177,FIELD,Spanish Burton Pull,Done,F01-Spanish-Burton-Pull.pdf
+179,FIELD,Spanish Burton Static Offset Anchor,Done,F01-Spanish-Burton-Static-Offset-Anchor.pdf
+181,FIELD,Spanish Burton Static Vehicle Anchor,Done,F01-Spanish-Burton-Static-Vehicle-Anchor.pdf
+183,FIELD,Spanish Burton Static,Done,F01-Spanish-Burton-Static.pdf
+185,FIELD,Triple Line Pull,Done,F01-Triple-Line-Pull.pdf
+187,FIELD,Triple Line Static Offset Anchor,Done,F01-Triple-Line-Static-Offset-Anchor.pdf
+189,FIELD,Triple Line Static Vehicle Anchor,Done,F01-Triple-Line-Static-Vehicle-Anchor.pdf
+191,FIELD,Triple Line Static,Done,F01-Triple-Line-Static.pdf
+193,FIELD,Redirect Doctrine,Done,F08-Redirect-Doctrine.pdf
+195,FIELD,Damper Placement & Weighted Recoil,To-Do,
+197,GO,SECTION INTRO: GO,To-Do,
+199,GO,Activity Log Form ICS214,Done,G-Activity-Log-Form-ICS214.pdf
+201,GO,Winch Clutch Operation,Done,G-Winch-Clutch-Operation.pdf
+203,GO,Winch Exposure,Done,G-Winch-Exposure.pdf
+205,GO,Winch Line Splicing,Done,G-Winch-Line-Splicing.pdf
+207,GO,Winch Tips,Done,G-Winch-Tips.pdf
+209,GO,Winch Unspooling Line,Done,G-Winch-Unspooling-Line.pdf
+211,GO,Winch Using The Remote,Done,G-Winch-Using-The-Remote.pdf
+213,GO,Duty Cycle: Motor Heat Management,To-Do,
+215,GO,Abort Conditions: Immediate Stop Criteria,To-Do,
+217,GO,Reassessment Triggers & Feedback Loop,To-Do,
+219,EXTENSION,SECTION INTRO: EXTENSION,To-Do,
+221,EXTENSION,Release Form 1 of 3,Done,X-Release-Form-1-of-3.pdf
+223,EXTENSION,Release Form 2 of 3,Done,X-Release-Form-2-of-3.pdf
+225,EXTENSION,Release Form 3 of 3,Done,X-Release-Form-3-of-3.pdf
+227,EXTENSION,Incident Outcome Log,To-Do,
+229,EXTENSION,Post-Use Maintenance Checklist,To-Do,
+231,EXTENSION,Near-Miss / Failure Report Template,To-Do,
