@@ -1,242 +1,244 @@
-Page,Section,Page Title,Status,Filename,Gemini Suggestions, Grok Suggestions
+Page,Section,Page Title,Status,Filename,Page Brief/Context,Suggested Visuals / New Page Ideas
 1,Admin,Front Cover,To-Do,,"High-vis branding; Title: 'Heavy Recovery Field Manual'; Version/Unit ID space.","High-contrast title in bold sans-serif; large recovery icon (winch hook + rope); color bar for section quick-ID; small safety skull icon bottom-right; blank space for handwritten unit/owner ID."
+2,Admin,Blank (Inside Front Cover),Done,,,""
+3,Admin,Half Title Page,To-Do,,"Minimalist title page for professional book transition.","Centered title repeat + subtitle 'Visual Field Guide to Winch Recovery'; small isometric winch system silhouette below; no other text."
+4,Admin,Blank,Done,,,""
 5,Admin,Full Title Page,To-Do,,"Title; Subtitle; Author/Organization; Publisher info; technical standards (SAE/ISO) icons.","Full title block; small icons row for SAE J3027 / ISO 19472 / kinetic energy standards; publisher/org crest or logo; edition/version stamp."
 6,Admin,Copyright / ISBN / Credits,To-Do,,"Legal boilerplate; ISBN; Printing history; attribution for technical advisors.","Standard copyright block; QR code to online errata (if any); credits icons for contributors/advisors; first printing date field."
 7,Admin,Dedication / Preface,To-Do,,"Brief intro on the mission of the manual; safety-first culture statement.","Single paragraph max 60 words; large bold 'SAFETY FIRST' header; small icon of locked helmet + crossed winch line."
-8,Admin,Blank,Done,,
+8,Admin,Blank,Done,,,""
 9,Admin,Table of Contents (Visual Index),To-Do,,"Thumbnail-based navigation for major sections (A-G).","Grid of 7 small section thumbnails (icons + labels: Assess, Baseline, Component, Design, Engineer, Field, Go, Extension); page numbers right-aligned; color-coded section bars."
-10,Admin,Blank,Done,,
+10,Admin,Blank,Done,,,""
 11,Admin,Safety Disclaimer / Limits of Liability,To-Do,,"Legal boundaries; user responsibility; warning: 'Trained professionals only.'","Large red-bordered warning box; skull icon; key phrases bold: 'Not a substitute for training', 'User assumes all risk', 'Consult professionals when possible'."
-12,Admin,Blank,Done,,
+12,Admin,Blank,Done,,,""
 13,ASSESS,SECTION INTRO: ASSESS,To-Do,,"Section divider: 'Scene Assessment & Hazard Identification.'","Large header 'ASSESS'; background faint isometric of recovery scene with red kill zones overlaid; section letter A in corner."
-14,ASSESS,Notes,Done,,
-15,ASSESS,Flat Terrain Kill Zones,Done,A-Flat-Terrain-Kill-Zones.pdf,"Primary combined kill zone diagram with whiplash, projectile, anchor, and giveaway areas shaded; inset views of individual zones; skull icons at high-risk points.",
-16,ASSESS,Notes,Done,,
+14,ASSESS,Notes,Done,,,""
+15,ASSESS,Flat Terrain Kill Zones,Done,A-Flat-Terrain-Kill-Zones.pdf,"Primary combined kill zone diagram with whiplash, projectile, anchor, and giveaway areas shaded; inset views of individual zones; skull icons at high-risk points.",""
+16,ASSESS,Notes,Done,,,""
 17,ASSESS,Personnel Safe Zones (Safe Pockets),To-Do,,"Isometric showing spotter/operator positions in green 'safe pockets' vs red 'kill zones'.","Main isometric with red exclusion arcs (recoil/snap-back) and green safe pockets labeled; small top-view inset with minimum distances (1.5× rope length); operator/spotter icons in green."
-18,ASSESS,Notes,Done,,
-19,ASSESS,Go No Go Decision,Done,A-Go-No-Go-Decision.pdf,"Two-column comparison: green Go side (thumbs-up icons for inspected gear, clear zones, adequate ratings) vs red No-Go side (thumbs-down for each failure condition).",
-20,ASSESS,Notes,Done,,
-21,ASSESS,Incident Command Structure,Done,A-Incident-Command-Structure.pdf,"Simple hierarchy diagram: Operator → Spotter → Bystanders; comms arrows; 'One Voice' rule callout; emergency stop hand icon prominent.",
-22,ASSESS,Notes,Done,,
-23,ASSESS,Winching Towing Hoisting,Done,A-Winching-Towing-Hoisting.pdf,"Three side-by-side icons + brief force arrows: Winch (horizontal pull), Tow (vehicle-to-vehicle), Hoist (vertical lift); prohibition icons on unsafe mixes.",
-24,ASSESS,Notes,Done,,
-25,ASSESS,IMMEDIATE SAFETY Checklist,To-Do,,"Rapid-fire scan for PPE; clear lines; hazard lights; and lockout/tagout.","Numbered icon checklist (1. PPE, 2. Lines clear, 3. Hazards off, 4. Brakes/chocks); green check / red X boxes; small scene diagram with numbered callouts.",
-26,ASSESS,Notes,Done,,
-27,ASSESS,COMMAND & CONTROL Protocol,To-Do,,"Comms check (radio/hand); 'One Voice' rule; and Emergency Stop authority.","Hand-signal chart (thumbs-up, stop, slow, etc.); radio bubble examples; large central 'ONE VOICE' icon with single speaker symbol; emergency palm-up stop icon.",
-28,ASSESS,Notes,Done,,
-29,ASSESS,AUTHORIZATION & Scene Documentation,To-Do,,"Waiver signatures; 4-corner baseline photos; and site property damage logs.","Mini 2×2 photo grid template (before corners); signature line; small damage icons (dent, scratch, rut) with checklist boxes.",
-30,ASSESS,Notes,Done,,
-31,ASSESS,Environment Scan: Lightning/Tide/Sunset,To-Do,,"Decision matrix for weather: When to pull vs when to wait (Flash floods; tides).","3-row decision table with icons: Lightning (abort), Rising water (abort), Low light (caution); clock + weather symbols; abort arrow dominant.",
-32,ASSESS,Notes,Done,,
-33,ASSESS,Operator Readiness & Fatigue Triggers,To-Do,,"Checklist for dehydration; night-vision loss; and cognitive stress markers.","Silhouette figure with red zones (head, eyes, limbs); icons: water bottle, sun/moon, clock; Go/No-Go gate graphic at bottom.",
-34,ASSESS,Notes,Done,,
-35,BASELINE,SECTION INTRO: BASELINE,To-Do,,"Section divider: 'Establishing the Load & Environment Facts.'","Header 'BASELINE'; faint grid background with vehicle + terrain overlay; section letter B.",
-36,BASELINE,Notes,Done,,
-37,BASELINE,Anchor Mobile,Done,B-Anchor-Mobile.pdf,"Disabled + recovery vehicle diagram with dashed line; requirement diamonds (brakes, chocks, traction); terrain texture swatches for flexibility/strength.",
-38,BASELINE,Notes,Done,,
-39,BASELINE,Estimating Weight,Done,B-Estimating-Weight.pdf,"Table with vehicle silhouettes by size class; weight ranges; additional load icons (winch, bumpers, gear) with +100 kg callouts.",
-40,BASELINE,Notes,Done,,
-41,BASELINE,Soil Type and Load Factors,Done,B-Soil-Type-and-Load-Factors.pdf,"Two-vehicle pull diagram with multiplier arrows; soil texture swatches + × factors (rock 1.0×, mud 4.0×); warning for combined mud multiplier.",
-42,BASELINE,Notes,Done,,
-43,BASELINE,Combined Vehicle + Terrain Multiplier,To-Do,,"Grid fusing silhouettes and soil textures into a single X.X multiplier.","Matrix chart: vehicle class rows × soil columns; bold multiplier in each cell; example highlighted (mid-size on silt = 6.0×); small force arrow legend.",
-44,BASELINE,Notes,Done,,
-45,BASELINE,Burial Depth Visuals (Axle vs Frame),To-Do,,"Graphic showing increased resistance for axle-deep vs frame-deep vs hood-deep mud.","Progressive side views: tire → axle → frame → hood submersion; resistance arrows increasing in size/number; % increase labels (e.g., +150% at frame).",
-46,BASELINE,Notes,Done,,
-47,BASELINE,Incline/Gradient Measurement Guide,To-Do,,"Protractor visual for degree vs % grade; impact on RLP (Required Line Pull).","Pocket protractor + angle gauge icon; incline side views with 10°/20°/30° examples; RLP multiplier table below (30° ≈ 2×).",
-48,BASELINE,Notes,Done,,
-49,BASELINE,Suction/Vacuum Seal Indicators,To-Do,,"Visuals for 'mucking' effects; how to identify seal-lock in clay or silt.","Cross-section tire in mud; vacuum arrows downward; surface cues (glossy, no tread marks, suction cup symbol); break-suction icon (pry bar).",
-50,BASELINE,Notes,Done,,
-51,BASELINE,Natural Anchor Health (DBH/Roots),To-Do,,"Diameter at Breast Height (DBH) vs Soil type chart for tree anchor viability.","Tree side view with DBH measurement ring; chart: trunk Ø vs soil icons (rock high hold, sand low); root depth warning for shallow soil.",
-52,BASELINE,Notes,Done,,
-53,BASELINE,Dynamic Baseline: Condition Tracking,To-Do,,"Rain/Thaw/Wheel-spin impacts; when to re-calculate your multipliers.","Timeline strip: rain → multiplier up, thaw → suction spike, spin → rut deepen; re-baseline checklist icons; warning triangle at change points.",
-54,BASELINE,Notes,Done,,
-55,COMPONENT,SECTION INTRO: COMPONENT,To-Do,,"Section divider: 'Gear Specifications & Inspection Criteria.'","Header 'COMPONENT'; exploded isometric of full winch system with labels A–P; section letter C.",
-56,COMPONENT,Notes,Done,,
-57,COMPONENT,Anchor Ground,Done,C-Anchor-Ground.pdf,"Portable anchor isometric; advantages/limitations bullet icons; soil holding diagrams (good vs poor).",
-58,COMPONENT,Notes,Done,,
-59,COMPONENT,Fairleads,Done,C-Fairleads.pdf,"Comparison: roller vs hawse; side views showing lateral load paths; abrasion warning on roller undercut.",
-60,COMPONENT,Notes,Done,,
-61,COMPONENT,Load Only On,Done,,"Load path diagrams for shackles/hooks/eyes; green load zones vs red no-load zones.",
-62,COMPONENT,Notes,Done,,
-63,COMPONENT,Low Stored Energy,Done,,"Synthetic vs steel elongation comparison graph; recoil severity icons (small vs large snap-back).",
-64,COMPONENT,Notes,Done,,
-65,COMPONENT,Powered By,Done,,"Winch power icons: electric, hydraulic, PTO; battery/voltage callouts; heat warning.",
-66,COMPONENT,Notes,Done,,
-67,COMPONENT,Recovery Vehicle,Done,,"Recovery vehicle plate: traction requirements, brake/chock icons, anchor point labels.",
-68,COMPONENT,Notes,Done,,
-69,COMPONENT,Snatch Block,Done,,"Snatch block isometric + rigging examples (single/double); MA arrows; side-load warning.",
-70,COMPONENT,Notes,Done,,
-71,COMPONENT,Synthetic Rope Care,Done,C-Synthetic-Rope-Care.pdf,"Care icons: clean, dry, coil loose, avoid heat/sharp edges; storage reel diagram.",
-72,COMPONENT,Notes,Done,,
-73,COMPONENT,Synthetic Rope Criteria,Done,C-Synthetic-Rope-Criteria.pdf,"Accept/reject close-ups: good braid vs fuzz/cut/melt; retire thresholds labeled.",
-74,COMPONENT,Notes,Done,,
-75,COMPONENT,Synthetic Rope Primer,Done,C-Synthetic-Rope-Primer.pdf,"12-strand braid close-up; property table with icons (high strength, low stretch, floats); fake rope warning.",
-76,COMPONENT,Notes,Done,,
-77,COMPONENT,Synthetic Rope Sizing,Done,C-Synthetic-Rope-Sizing.pdf,"Diameter table with MBS/WLL; end termination icons (soft eye, thimble, splice).",
-78,COMPONENT,Notes,Done,,
-79,COMPONENT,Tree Saver,Done,,"Tree saver isometric + wrap diagram; load distribution arrows; bark protection callouts.",
-80,COMPONENT,Notes,Done,,
-81,COMPONENT,Winch Basics,Done,C-Winch-Basics.pdf,"Winch isometric with key parts labeled; spool direction arrows; clutch in/out icons.",
-82,COMPONENT,Notes,Done,,
-83,COMPONENT,Winch Exploded View,Done,C-Winch-Exploded-View.pdf,"Exploded diagram with parts callouts; assembly sequence arrows.",
-84,COMPONENT,Notes,Done,,
-85,COMPONENT,Winch Label,Done,C-Winch-Label.pdf,"Typical winch plate close-up; WLL/MBS/voltage/speed/callouts; derating note.",
-86,COMPONENT,Notes,Done,,
-87,COMPONENT,Winch Line Hook Isolator,Done,C-Winch-Line-Hook-Isolator.pdf,"Hook isolator close-up; prevent fairlead impact diagram; tension maintenance callout.",
-88,COMPONENT,Notes,Done,,
-89,COMPONENT,Winch Line Stopper,Done,C-Winch-Line-Stopper.pdf,"Stopper clamp isometric + installation view; stand-off distance; drum tension icon.",
-90,COMPONENT,Notes,Done,,
-91,COMPONENT,Hard Shackles,Done,C-Hard-Shackles.pdf,"Screw-pin vs bolt-type; load axis arrows; bend/wear inspection points.",
-92,COMPONENT,Notes,Done,,
-93,COMPONENT,Snatch Blocks,Done,C-Snatch-Blocks.pdf,"Grease port + side plate open view; MA multiplication diagram; side-load caution.",
-94,COMPONENT,Notes,Done,,
-95,COMPONENT,Soft Shackles,Done,C-Soft-Shackles.pdf,"Noose + knot diagram; load alignment; abrasion/heat warning zones.",
-96,COMPONENT,Notes,Done,,
-97,COMPONENT,Synthetic Rope Specs,Done,C-Synthetic-Rope-Specs.pdf,"Comparison table (steel/nylon/poly/UHMWPE) with icons for key advantages (low energy, acid resist, floats).",
-98,COMPONENT,Notes,Done,,
-99,COMPONENT,Tree Savers,Done,C-Tree-Savers.pdf,"Multiple tree saver styles; wrap geometry; tag/label preservation callout.",
-100,COMPONENT,Notes,Done,,
-101,COMPONENT,Winch System Components,Done,C-Winch-System-Components.pdf,"Full system labeled diagram (A–P) with small icons for each part.",
-102,COMPONENT,Notes,Done,,
-103,COMPONENT,Winching 101,Done,C-Winching-101.pdf,"Basic single-line pull diagram; fairlead alignment; slow steady pull arrow.",
-104,COMPONENT,Notes,Done,,
-105,COMPONENT,Reject/Accept Gallery: Hardware/Steel,To-Do,,"Photos of rust/pitting/deformation for steel hardware.","Side-by-side accept/reject pairs: good shackle vs bent/pitted/rusted; crack close-ups; red X / green check overlays; measurement callouts for wear limits.",
-106,COMPONENT,Notes,Done,,
-107,DESIGN,SECTION INTRO: DESIGN,To-Do,,"Section divider: 'Strategic Rigging & Tactical Geometry.'","Header 'DESIGN'; faint rigging geometry background with force arrows; section letter D.",
-108,DESIGN,Notes,Done,,
-109,DESIGN,Mechanical Advantage,Done,D-Mechanical-Advantage.pdf,"1:1 / 2:1 / 3:1 rigging diagrams side-by-side; pull force reduction arrows; drum layers note.",
-110,DESIGN,Notes,Done,,
-111,DESIGN,WLL and MBS,Done,D-WLL-and-MBS.pdf,"WLL = MBS / Safety Factor diagram; consequence progression icons (normal → overload → failure); legal note.",
-112,DESIGN,Notes,Done,,
-113,DESIGN,Redirect Angle Effects (Side-Load),To-Do,,"Side-by-side: 0 vs 30 vs 60 degree redirects with side-load multipliers.","Three rigging views: 0° (1×), 30° (~1.15×), 60° (~2×); side-load force arrows thickening; warning at >45°.",
-114,DESIGN,Notes,Done,,
-115,DESIGN,Objective: Self vs Assisted Flow,To-Do,,"Logic flow: When to self-recover vs when an external anchor is required.","Decision tree: traction good → self-pull; traction poor → mobile/fixed anchor; icons for each branch.",
-116,DESIGN,Notes,Done,,
-117,DESIGN,Exit Path: Natural Alleyway ID,To-Do,,"Finding the path of least resistance vs fighting the terrain.","Top-view terrain with vehicle; low-resistance path highlighted green; high-resistance red; pull arrow along green.",
-118,DESIGN,Notes,Done,,
-119,DESIGN,Main Anchor Strategy & Selection,To-Do,,"Prioritizing anchors: Deadman vs Tree vs Vehicle vs Ground Anchor.","Priority ladder icon: natural tree first, then vehicle, ground anchor last; holding strength bars.",
-120,DESIGN,Notes,Done,,
-121,DESIGN,Strategic Redirect: Pathing Geometry,To-Do,,"Using blocks to navigate obstacles; creating 'Compound Redirects'.","Compound pull diagram: multiple snatch blocks; path around obstacle; cumulative MA note.",
-122,DESIGN,Notes,Done,,
-123,DESIGN,Consequence Awareness: Failure Paths,To-Do,,"Overlaying 'Failure Move Paths' onto rigging designs.","Rigging base diagram with dashed failure arcs (snap-back, projectile, anchor pull-out); red danger zones.",
-124,DESIGN,Notes,Done,,
-125,DESIGN,Safe Zone Mapping: Personnel Placement,To-Do,,"Drawing 'Green Zones' for specific rigging setups.","Example rigging with green safe pockets shaded; red exclusion overlaid; spotter/operator positions marked.",
-126,DESIGN,Notes,Done,,
-127,ENGINEER,SECTION INTRO: ENGINEER,To-Do,,"Section divider: 'Vector Physics & Stress Calculations.'","Header 'ENGINEER'; vector arrow background; section letter E.",
-128,ENGINEER,Notes,Done,,
-129,ENGINEER,Load Vectors Horizontal,Done,E-Load-Vectors-Horizontal.pdf,"Horizontal pull force diagram; angle effects; resultant vector arrow.",
-130,ENGINEER,Notes,Done,,
-131,ENGINEER,Load Vectors Vertical,Done,E-Load-Vectors-Vertical.pdf,"Incline pull vectors; vertical component increase; slope multiplier icons.",
-132,ENGINEER,Notes,Done,,
-133,ENGINEER,Vertical Angle Zero Degree Recovery,Done,E-Vertical-Angle-Zero-Degree-Recovery.pdf,"Flat direct pull; 1:1 MA; low risk; comparison to angled pulls.",
-134,ENGINEER,Notes,Done,,
-135,ENGINEER,Required Line Pull (RLP) Estimator Chart,To-Do,,"Lookup chart cross-referencing vehicle class vs terrain resistance.","Grid chart: vehicle weight rows × terrain columns; RLP lbs bold; slope/suction adders column.",
-136,ENGINEER,Notes,Done,,
-137,ENGINEER,Vector Math: Angle Force Multipliers,To-Do,,"Trig-based multiplier table for non-standard angles.","Small table: angle → multiplier (0°=1, 45°≈1.4, 60°=2); cosine curve icon; quick-reference use note.",
-138,ENGINEER,Notes,Done,,
-139,ENGINEER,Anchor Shift Failure Path (Soil Failure),To-Do,,"Visualizing ground anchor pull-out cones and soil cracking patterns.","Ground anchor cross-section; pull-out cone angle; soil shear lines; warning for loose/saturated.",
-140,ENGINEER,Notes,Done,,
-141,ENGINEER,Sudden Load Spike Triggers (Timeline),To-Do,,"Sequence: Slack snap → wheel hop → camber release.","Timeline strip: slack → hop → spike → release; force spike graph; warning icons at each step.",
-142,ENGINEER,Notes,Done,,
-143,ENGINEER,Failure Path Analysis: Bisector Danger,To-Do,,"Visualizing the 'Triangle of Danger' at the pulley bisector.","Snatch block diagram; bisector line; danger triangle shaded red; projectile path arrows.",
-144,ENGINEER,Notes,Done,,
-145,ENGINEER,Failure Direction Quick Reference,To-Do,,"Arrows showing where gear flies during shackle vs winch line failure.","Two failure modes: shackle break (outward radial) vs rope snap (along line axis); arrow fans.",
-146,ENGINEER,Notes,Done,,
-147,ENGINEER,MA Selection Logic (1:1/2:1/3:1),To-Do,,"Decision tree: When is 1:1 enough? When is 2:1 or 3:1 mandatory?","Flowchart: RLP vs hardware WLL → MA needed; rigging insets for each level.",
-148,ENGINEER,Notes,Done,,
-149,ENGINEER,Stored Energy / Catenary Analysis,To-Do,,"How line weight/length affects stored energy.","Sag curve comparison: tight vs catenary; energy storage icons (small vs large); damper recommendation.",
-150,ENGINEER,Notes,Done,,
-151,ENGINEER,Winch Layer Capacity vs RLP Check,To-Do,,"Formula for loss of pulling power on layer 2; 3; 4 of the drum.","Drum cross-section layers; capacity % drop per layer; check against RLP arrow.",
-152,ENGINEER,Notes,Done,,
-153,ENGINEER,Weakest Link Identification Guide,To-Do,,"Finding the component in the rig with the lowest MBS.","System diagram with MBS numbers on each part; lowest highlighted red; replace callout.",
-154,ENGINEER,Notes,Done,,
-155,FIELD,SECTION INTRO: FIELD,To-Do,,"Section divider: 'Field Rigging Blueprints & Case Studies.'","Header 'FIELD'; blueprint-style background with rigging lines; section letter F.",
-156,FIELD,Notes,Done,,
-157,FIELD,Incident Briefing Form ICS 201,Done,F99-Incident-Briefing-Form-ICS-201.pdf,"Mini form layout: situation, objectives, resources, safety; fillable fields.",
-158,FIELD,Notes,Done,,
-159,FIELD,Double Line Pull,Done,F01-Double-Line-Pull.pdf,"2:1 rigging isometric; MA arrows; fairlead/snatch block positions.",
-160,FIELD,Notes,Done,,
-161,FIELD,Double Line Static Offset Anchor,Done,F01-Double-Line-Static-Offset-Anchor.pdf,"Offset anchor setup; 2:1 MA; angle effects minimized.",
-162,FIELD,Notes,Done,,
-163,FIELD,Double Line Static Vehicle Anchor,Done,F01-Double-Line-Static-Vehicle-Anchor.pdf,"Vehicle-to-vehicle double line; chocks/brakes icons.",
-164,FIELD,Notes,Done,,
-165,FIELD,Double Line Static,Done,F01-Double-Line-Static.pdf,"Basic 2:1 static; load sharing diagram.",
-166,FIELD,Notes,Done,,
-167,FIELD,Single Line Pull,Done,F01-Single-Line-Pull.pdf,"Direct 1:1; alignment critical; fairlead straight-on view.",
-168,FIELD,Notes,Done,,
-169,FIELD,Single Line Redirect Pull,Done,F01-Single-Line-Redirect-Pull.pdf,"Single block redirect; angle change; side-load warning.",
-170,FIELD,Notes,Done,,
-171,FIELD,Single Line Redirect Static,Done,F01-Single-Line-Redirect-Static.pdf,"Static redirect; obstacle avoidance geometry.",
-171,FIELD,Notes,Done,,
-173,FIELD,Single Line Static Offset Anchor,Done,F01-Single-Line-Static-Offset-Anchor.pdf,"Offset single line; pull direction adjustment.",
-174,FIELD,Notes,Done,,
-175,FIELD,Single Line Static Vehicle Anchor,Done,F01-Single-Line-Static-Vehicle-Anchor.pdf,"Vehicle anchor single line; traction requirements.",
-176,FIELD,Notes,Done,,
-177,FIELD,Single Line Static,Done,F01-Single-Line-Static.pdf,"Basic static pull; no MA gain.",
-178,FIELD,Notes,Done,,
-179,FIELD,Spanish Burton Pull,Done,F01-Spanish-Burton-Pull.pdf,"Spanish Burton 3:1; block arrangement; high MA diagram.",
-180,FIELD,Notes,Done,,
-181,FIELD,Spanish Burton Static Offset Anchor,Done,F01-Spanish-Burton-Static-Offset-Anchor.pdf,"Offset variant; pathing geometry.",
-182,FIELD,Notes,Done,,
-183,FIELD,Spanish Burton Static Vehicle Anchor,Done,F01-Spanish-Burton-Static-Vehicle-Anchor.pdf,"Vehicle anchor Burton; MA arrows.",
-184,FIELD,Notes,Done,,
-185,FIELD,Spanish Burton Static,Done,F01-Spanish-Burton-Static.pdf,"Core 3:1 configuration; load reduction.",
-186,FIELD,Notes,Done,,
-187,FIELD,Triple Line Pull,Done,F01-Triple-Line-Pull.pdf,"3:1 basic; multiple blocks; high reduction.",
-188,FIELD,Notes,Done,,
-189,FIELD,Triple Line Static Offset Anchor,Done,F01-Triple-Line-Static-Offset-Anchor.pdf,"Offset triple; compound geometry.",
-190,FIELD,Notes,Done,,
-191,FIELD,Triple Line Static Vehicle Anchor,Done,F01-Triple-Line-Static-Vehicle-Anchor.pdf,"Vehicle anchor triple; traction emphasis.",
-192,FIELD,Notes,Done,,
-193,FIELD,Triple Line Static,Done,F01-Triple-Line-Static.pdf,"Standard 3:1 static; force diagram.",
-194,FIELD,Notes,Done,,
-195,FIELD,Redirect Doctrine,Done,F08-Redirect-Doctrine.pdf,"Redirect rules: max angle, side-load limits, multiple block use; icons.",
-196,FIELD,Notes,Done,,
-197,FIELD,Damper Placement & Weighted Recoil,To-Do,,"The '1/3rd Rule' for damper placement.","Line with weight at 1/3 span; recoil reduction diagram; before/after snap-back zone comparison.",
-198,FIELD,Notes,Done,,
-199,GO,SECTION INTRO: GO,To-Do,,"Section divider: 'Operation; Control & Maintenance.'","Header 'GO'; active pull arrow background; section letter G.",
-200,GO,Notes,Done,,
-201,GO,Activity Log Form ICS214,Done,G-Activity-Log-Form-ICS214.pdf,"Mini log table: time, action, person, notes; fillable grid.",
-202,GO,Notes,Done,,
-203,GO,Winch Clutch Operation,Done,G-Winch-Clutch-Operation.pdf,"Clutch in/out positions; free spool vs engaged icons.",
-204,GO,Notes,Done,,
-205,GO,Winch Exposure,Done,G-Winch-Exposure.pdf,"Exposed vs recessed vs concealed; access/inspection icons.",
-206,GO,Notes,Done,,
-207,GO,Winch Line Splicing,Done,G-Winching-Line-Splicing.pdf,"Bury splice steps (numbered diagrams); strength retention note.",
-208,GO,Notes,Done,,
-209,GO,Winch Tips,Done,G-Winch-Tips.pdf,"Quick tips icons: even spooling, no shock loading, monitor heat.",
-210,GO,Notes,Done,,
-211,GO,Winch Unspooling Line,Done,G-Winch-Unspooling-Line.pdf,"Correct payout under load; no free-spool pull warning.",
-212,GO,Notes,Done,,
-213,GO,Winch Using The Remote,Done,G-Winch-Using-The-Remote.pdf,"Remote layout; safe stand position; plug-in warning.",
-214,GO,Notes,Done,,
-215,GO,Duty Cycle: Motor Heat Management,To-Do,,"Heat markers and mandatory cooling intervals.","Temperature gauge icons: green → yellow → red; cooling timer (e.g., 10 min on / 10 off); smoke warning.",
-216,GO,Notes,Done,,
-217,GO,Abort Conditions: Immediate Stop Criteria,To-Do,,"Visual list of E-Stop triggers.","Icon list: smoke, anchor move, line slip, person in zone, spike; large red E-STOP hand.",
-218,GO,Notes,Done,,
-219,GO,Reassessment Triggers & Feedback Loop,To-Do,,"When the baseline changes; stop and re-index the plan.","Cycle diagram: pull → change (rain, slip) → reassess baseline → new plan; warning at break points.",
-220,GO,Notes,Done,,
-221,EXTENSION,SECTION INTRO: EXTENSION,To-Do,,"Section divider: 'Legal Forms & Maintenance Logs.'","Header 'EXTENSION'; form + checklist background; section letter X.",
-222,EXTENSION,Blank,Done,,
-223,EXTENSION,Release Form 1 of 3,Done,X-Release-Form-1-of-3.pdf,"Waiver page 1: risks assumption, release language.",
-224,EXTENSION,Blank,Done,,
-225,EXTENSION,Release Form 2 of 3,Done,X-Release-Form-2-of-3.pdf,"Page 2: indemnity, authority to attach equipment.",
-226,EXTENSION,Blank,Done,,
-227,EXTENSION,Release Form 3 of 3,Done,X-Release-Form-3-of-3.pdf,"Page 3: signature, date, governing law.",
-228,EXTENSION,Blank,Done,,
-229,EXTENSION,Incident Outcome Log,To-Do,,"Capture success/failure; gear used; and Lessons Learned.","Table: outcome (success/fail), gear list, brief lessons; icon checkboxes.",
-230,EXTENSION,Blank,Done,,
-231,EXTENSION,Post-Use Maintenance Checklist,To-Do,,"Cleaning synthetic rope and lubricating blocks.","Step icons: rinse rope, inspect, lube blocks, dry store; green complete boxes.",
-232,EXTENSION,Blank,Done,,
-233,EXTENSION,Near-Miss / Failure Report Template,To-Do,,"Form for recording almost-accidents.","Timeline blanks: event → condition → near-miss → action; cause icons (gear/human/terrain).",
-234,EXTENSION,Blank,Done,,
-235,Admin,Glossary of Technical Terms,To-Do,,"Definitions for MBS; WLL; RLP; Snatch Block; etc.","Two-column list: term + short definition + small icon; alphabetical.",
-236,Admin,Notes,Done,,
-237,Admin,Alphabetical Index,To-Do,,"Keyword lookup from A to Z.","Dense keyword list with page refs; bold section letters.",
-238,Admin,Index Continued / Quick Ref Table,To-Do,,"Overflow index + master chart for rope sizing specs.","Continued index top; bottom: rope diameter/MBS/WLL quick chart.",
-239,Admin,Quick Ref: Unit Conversions,To-Do,,"lbs to kgs; feet to meters rapid lookup.","Small conversion table; common recovery units (force, length, angle %).",
-240,Admin,Quick Ref: Signals & Comms,To-Do,,"Icon key for hand signals and radio pro-words.","Hand signal grid (stop, go, slow, more line); radio phrases (copy, over, E-stop).",
-241,Admin,About the Author / Revision Log,To-Do,,"Organization mission and version history.","Mission statement; revision table (date, changes, approved by).",
-242,Admin,Blank (Inside Back Cover),Done,,
-243,Admin,Outside Back Cover,To-Do,,"Final external branding and Barcode.","Back cover title repeat; large safety icon; barcode/QR; durable material note.",
-244,Admin,End-Paper (Blank),Done,,
+18,ASSESS,Notes,Done,,,""
+19,ASSESS,Go No Go Decision,Done,A-Go-No-Go-Decision.pdf,"Two-column comparison: green Go side (thumbs-up icons for inspected gear, clear zones, adequate ratings) vs red No-Go side (thumbs-down for each failure condition.)",""
+20,ASSESS,Notes,Done,,,""
+21,ASSESS,Incident Command Structure,Done,A-Incident-Command-Structure.pdf,"Simple hierarchy diagram: Operator → Spotter → Bystanders; comms arrows; 'One Voice' rule callout; emergency stop hand icon prominent.",""
+22,ASSESS,Notes,Done,,,""
+23,ASSESS,Winching Towing Hoisting,Done,A-Winching-Towing-Hoisting.pdf,"Three side-by-side icons + brief force arrows: Winch (horizontal pull), Tow (vehicle-to-vehicle), Hoist (vertical lift); prohibition icons on unsafe mixes.",""
+24,ASSESS,Notes,Done,,,""
+25,ASSESS,IMMEDIATE SAFETY Checklist,To-Do,,"Rapid-fire scan for PPE; clear lines; hazard lights; and lockout/tagout.","Numbered icon checklist (1. PPE, 2. Lines clear, 3. Hazards off, 4. Brakes/chocks); green check / red X boxes; small scene diagram with numbered callouts."
+26,ASSESS,Notes,Done,,,""
+27,ASSESS,COMMAND & CONTROL Protocol,To-Do,,"Comms check (radio/hand); 'One Voice' rule; and Emergency Stop authority.","Hand-signal chart (thumbs-up, stop, slow, etc.); radio bubble examples; large central 'ONE VOICE' icon with single speaker symbol; emergency palm-up stop icon."
+28,ASSESS,Notes,Done,,,""
+29,ASSESS,AUTHORIZATION & Scene Documentation,To-Do,,"Waiver signatures; 4-corner baseline photos; and site property damage logs.","Mini 2×2 photo grid template (before corners); signature line; small damage icons (dent, scratch, rut) with checklist boxes."
+30,ASSESS,Notes,Done,,,""
+31,ASSESS,Environment Scan: Lightning/Tide/Sunset,To-Do,,"Decision matrix for weather: When to pull vs when to wait (Flash floods; tides).","3-row decision table with icons: Lightning (abort), Rising water (abort), Low light (caution); clock + weather symbols; abort arrow dominant."
+32,ASSESS,Notes,Done,,,""
+33,ASSESS,Operator Readiness & Fatigue Triggers,To-Do,,"Checklist for dehydration; night-vision loss; and cognitive stress markers.","Silhouette figure with red zones (head, eyes, limbs); icons: water bottle, sun/moon, clock; Go/No-Go gate graphic at bottom."
+34,ASSESS,Notes,Done,,,""
+35,BASELINE,SECTION INTRO: BASELINE,To-Do,,"Section divider: 'Establishing the Load & Environment Facts.'","Header 'BASELINE'; faint grid background with vehicle + terrain overlay; section letter B."
+36,BASELINE,Notes,Done,,,""
+37,BASELINE,Anchor Mobile,Done,B-Anchor-Mobile.pdf,"Disabled + recovery vehicle diagram with dashed line; requirement diamonds (brakes, chocks, traction); terrain texture swatches for flexibility/strength.",""
+38,BASELINE,Notes,Done,,,""
+39,BASELINE,Estimating Weight,Done,B-Estimating-Weight.pdf,"Table with vehicle silhouettes by size class; weight ranges; additional load icons (winch, bumpers, gear) with +100 kg callouts.",""
+40,BASELINE,Notes,Done,,,""
+41,BASELINE,Soil Type and Load Factors,Done,B-Soil-Type-and-Load-Factors.pdf,"Two-vehicle pull diagram with multiplier arrows; soil texture swatches + × factors (rock 1.0×, mud 4.0×); warning for combined mud multiplier.",""
+42,BASELINE,Notes,Done,,,""
+43,BASELINE,Combined Vehicle + Terrain Multiplier,To-Do,,"Grid fusing silhouettes and soil textures into a single X.X multiplier.","Matrix chart: vehicle class rows × soil columns; bold multiplier in each cell; example highlighted (mid-size on silt = 6.0×); small force arrow legend."
+44,BASELINE,Notes,Done,,,""
+45,BASELINE,Burial Depth Visuals (Axle vs Frame),To-Do,,"Graphic showing increased resistance for axle-deep vs frame-deep vs hood-deep mud.","Progressive side views: tire → axle → frame → hood submersion; resistance arrows increasing in size/number; % increase labels (e.g., +150% at frame)."
+46,BASELINE,Notes,Done,,,""
+47,BASELINE,Incline/Gradient Measurement Guide,To-Do,,"Protractor visual for degree vs % grade; impact on RLP (Required Line Pull).","Pocket protractor + angle gauge icon; incline side views with 10°/20°/30° examples; RLP multiplier table below (30° ≈ 2×)."
+48,BASELINE,Notes,Done,,,""
+49,BASELINE,Suction/Vacuum Seal Indicators,To-Do,,"Visuals for 'mucking' effects; how to identify seal-lock in clay or silt.","Cross-section tire in mud; vacuum arrows downward; surface cues (glossy, no update marks, suction cup symbol); break-suction icon (pry bar)."
+50,BASELINE,Notes,Done,,,""
+51,BASELINE,Natural Anchor Health (DBH/Roots),To-Do,,"Diameter at Breast Height (DBH) vs Soil type chart for tree anchor viability.","Tree side view with DBH measurement ring; chart: trunk Ø vs soil icons (rock high hold, sand low); root depth warning for shallow soil."
+52,BASELINE,Notes,Done,,,""
+53,BASELINE,Dynamic Baseline: Condition Tracking,To-Do,,"Rain/Thaw/Wheel-spin impacts; when to re-calculate your multipliers.","Timeline strip: rain → multiplier up, thaw → suction spike, spin → rut deepen; re-baseline checklist icons; warning triangle at change points."
+54,BASELINE,Notes,Done,,,""
+55,COMPONENT,SECTION INTRO: COMPONENT,To-Do,,"Section divider: 'Gear Specifications & Inspection Criteria.'","Header 'COMPONENT'; exploded isometric of full winch system with labels A–P; section letter C."
+56,COMPONENT,Notes,Done,,,""
+57,COMPONENT,Anchor Ground,Done,C-Anchor-Ground.pdf,"Portable anchor isometric; advantages/limitations bullet icons; soil holding diagrams (good vs poor).",""
+58,COMPONENT,Notes,Done,,,""
+59,COMPONENT,Fairleads,Done,C-Fairleads.pdf,"Comparison: roller vs hawse; side views showing lateral load paths; abrasion warning on roller undercut.",""
+60,COMPONENT,Notes,Done,,,""
+61,COMPONENT,Load Only On,Done,,"Load path diagrams for shackles/hooks/eyes; green load zones vs red no-load zones.",""
+62,COMPONENT,Notes,Done,,,""
+63,COMPONENT,Low Stored Energy,Done,,"Synthetic vs steel elongation comparison graph; recoil severity icons (small vs large snap-back).",""
+64,COMPONENT,Notes,Done,,,""
+65,COMPONENT,Powered By,Done,,"Winch power icons: electric, hydraulic, PTO; battery/voltage callouts; heat warning.",""
+66,COMPONENT,Notes,Done,,,""
+67,COMPONENT,Recovery Vehicle,Done,,"Recovery vehicle plate: traction requirements, brake/chock icons, anchor point labels.",""
+68,COMPONENT,Notes,Done,,,""
+69,COMPONENT,Snatch Block,Done,,"Snatch block isometric + rigging examples (single/double); MA arrows; side-load warning.",""
+71,COMPONENT,Synthetic Rope Care,Done,C-Synthetic-Rope-Care.pdf,"Care icons: clean, dry, coil loose, avoid heat/sharp edges; storage reel diagram.",""
+72,COMPONENT,Notes,Done,,,""
+73,COMPONENT,Synthetic Rope Criteria,Done,C-Synthetic-Rope-Criteria.pdf,"Accept/reject close-ups: good braid vs fuzz/cut/melt; retire thresholds labeled.",""
+74,COMPONENT,Notes,Done,,,""
+75,COMPONENT,Synthetic Rope Primer,Done,C-Synthetic-Rope-Primer.pdf,"12-strand braid close-up; property table with icons (high strength, low stretch, floats); fake rope warning.",""
+76,COMPONENT,Notes,Done,,,""
+77,COMPONENT,Synthetic Rope Sizing,Done,C-Synthetic-Rope-Sizing.pdf,"Diameter table with MBS/WLL; end termination icons (soft eye, thimble, splice).",""
+78,COMPONENT,Notes,Done,,,""
+79,COMPONENT,Tree Saver,Done,,"Tree saver isometric + wrap diagram; load distribution arrows; bark protection callouts.",""
+80,COMPONENT,Notes,Done,,,""
+81,COMPONENT,Winch Basics,Done,C-Winch-Basics.pdf,"Winch isometric with key parts labeled; spool direction arrows; clutch in/out icons.",""
+82,COMPONENT,Notes,Done,,,""
+83,COMPONENT,Winch Exploded View,Done,C-Winch-Exploded-View.pdf,"Exploded diagram with parts callouts; assembly sequence arrows.",""
+84,COMPONENT,Notes,Done,,,""
+85,COMPONENT,Winch Label,Done,C-Winch-Label.pdf,"Typical winch plate close-up; WLL/MBS/voltage/speed/callouts; derating note.",""
+86,COMPONENT,Notes,Done,,,""
+87,COMPONENT,Winch Line Hook Isolator,Done,C-Winch-Line-Hook-Isolator.pdf,"Hook isolator close-up; prevent fairlead impact diagram; tension maintenance callout.",""
+88,COMPONENT,Notes,Done,,,""
+89,COMPONENT,Winch Line Stopper,Done,C-Winch-Line-Stopper.pdf,"Stopper clamp isometric + installation view; stand-off distance; drum tension icon.",""
+90,COMPONENT,Notes,Done,,,""
+91,COMPONENT,Hard Shackles,Done,C-Hard-Shackles.pdf,"Screw-pin vs bolt-type; load axis arrows; bend/wear inspection points.",""
+92,COMPONENT,Notes,Done,,,""
+93,COMPONENT,Snatch Blocks,Done,C-Snatch-Blocks.pdf,"Grease port + side plate open view; MA multiplication diagram; side-load caution.",""
+94,COMPONENT,Notes,Done,,,""
+95,COMPONENT,Soft Shackles,Done,C-Soft-Shackles.pdf,"Noose + knot diagram; load alignment; abrasion/heat warning zones.",""
+96,COMPONENT,Notes,Done,,,""
+97,COMPONENT,Synthetic Rope Specs,Done,C-Synthetic-Rope-Specs.pdf,"Comparison table (steel/nylon/poly/UHMWPE) with icons for key advantages (low energy, acid resist, floats).",""
+98,COMPONENT,Notes,Done,,,""
+99,COMPONENT,Tree Savers,Done,C-Tree-Savers.pdf,"Multiple tree saver styles; wrap geometry; tag/label preservation callout.",""
+100,COMPONENT,Notes,Done,,,""
+101,COMPONENT,Winch System Components,Done,C-Winch-System-Components.pdf,"Full system labeled diagram (A–P) with small icons for each part.",""
+102,COMPONENT,Notes,Done,,,""
+103,COMPONENT,Winching 101,Done,C-Winching-101.pdf,"Basic single-line pull diagram; fairlead alignment; slow steady pull arrow.",""
+104,COMPONENT,Notes,Done,,,""
+105,COMPONENT,Reject/Accept Gallery: Hardware/Steel,To-Do,,"Photos of rust/pitting/deformation for steel hardware.","Side-by-side accept/reject pairs: good shackle vs bent/pitted/rusted; crack close-ups; red X / green check overlays; measurement callouts for wear limits."
+106,COMPONENT,Notes,Done,,,""
+107,DESIGN,SECTION INTRO: DESIGN,To-Do,,"Section divider: 'Strategic Rigging & Tactical Geometry.'","Header 'DESIGN'; faint rigging geometry background with force arrows; section letter D."
+108,DESIGN,Notes,Done,,,""
+109,DESIGN,Mechanical Advantage,Done,D-Mechanical-Advantage.pdf,"1:1 / 2:1 / 3:1 rigging diagrams side-by-side; pull force reduction arrows; drum layers note.",""
+110,DESIGN,Notes,Done,,,""
+111,DESIGN,WLL and MBS,Done,D-WLL-and-MBS.pdf,"WLL = MBS / Safety Factor diagram; consequence progression icons (normal → overload → failure); legal note.",""
+112,DESIGN,Notes,Done,,,""
+113,DESIGN,Redirect Angle Effects (Side-Load),To-Do,,"Side-by-side: 0 vs 30 vs 60 degree redirects with side-load multipliers.","Three rigging views: 0° (1×), 30° (~1.15×), 60° (~2×); side-load force arrows thickening; warning at >45°."
+114,DESIGN,Notes,Done,,,""
+115,DESIGN,Objective: Self vs Assisted Flow,To-Do,,"Logic flow: When to self-recover vs when an external anchor is required.","Decision tree: traction good → self-pull; traction poor → mobile/fixed anchor; icons for each branch."
+116,DESIGN,Notes,Done,,,""
+117,DESIGN,Exit Path: Natural Alleyway ID,To-Do,,"Finding the path of least resistance vs fighting the terrain.","Top-view terrain with vehicle; low-resistance path highlighted green; high-resistance red; pull arrow along green."
+118,DESIGN,Notes,Done,,,""
+119,DESIGN,Main Anchor Strategy & Selection,To-Do,,"Prioritizing anchors: Deadman vs Tree vs Vehicle vs Ground Anchor.","Priority ladder icon: natural tree first, then vehicle, ground anchor last; holding strength bars."
+120,DESIGN,Notes,Done,,,""
+121,DESIGN,Strategic Redirect: Pathing Geometry,To-Do,,"Using blocks to navigate obstacles; creating 'Compound Redirects'.","Compound pull diagram: multiple snatch blocks; path around obstacle; cumulative MA note."
+122,DESIGN,Notes,Done,,,""
+123,DESIGN,Consequence Awareness: Failure Paths,To-Do,,"Overlaying 'Failure Move Paths' onto rigging designs.","Rigging base diagram with dashed failure arcs (snap-back, projectile, anchor pull-out); red danger zones."
+124,DESIGN,Notes,Done,,,""
+125,DESIGN,Safe Zone Mapping: Personnel Placement,To-Do,,"Drawing 'Green Zones' for specific rigging setups.","Example rigging with green safe pockets shaded; red exclusion overlaid; spotter/operator positions marked."
+126,DESIGN,Notes,Done,,,""
+127,ENGINEER,SECTION INTRO: ENGINEER,To-Do,,"Section divider: 'Vector Physics & Stress Calculations.'","Header 'ENGINEER'; vector arrow background; section letter E."
+128,ENGINEER,Notes,Done,,,""
+129,ENGINEER,Load Vectors Horizontal,Done,E-Load-Vectors-Horizontal.pdf,"Horizontal pull force diagram; angle effects; resultant vector arrow.",""
+130,ENGINEER,Notes,Done,,,""
+131,ENGINEER,Load Vectors Vertical,Done,E-Load-Vectors-Vertical.pdf,"Incline pull vectors; vertical component increase; slope multiplier icons.",""
+132,ENGINEER,Notes,Done,,,""
+133,ENGINEER,Vertical Angle Zero Degree Recovery,Done,E-Vertical-Angle-Zero-Degree-Recovery.pdf,"Flat direct pull; 1:1 MA; low risk; comparison to angled pulls.",""
+134,ENGINEER,Notes,Done,,,""
+135,ENGINEER,Required Line Pull (RLP) Estimator Chart,To-Do,,"Lookup chart cross-referencing vehicle class vs terrain resistance.","Grid chart: vehicle weight rows × terrain columns; RLP lbs bold; slope/suction adders column."
+136,ENGINEER,Notes,Done,,,""
+137,ENGINEER,Vector Math: Angle Force Multipliers,To-Do,,"Trig-based multiplier table for non-standard angles.","Small table: angle → multiplier (0°=1, 45°≈1.4, 60°=2); cosine curve icon; quick-reference use note."
+138,ENGINEER,Notes,Done,,,""
+139,ENGINEER,Anchor Shift Failure Path (Soil Failure),To-Do,,"Visualizing ground anchor pull-out cones and soil cracking patterns.","Ground anchor cross-section; pull-out cone angle; soil shear lines; warning for loose/saturated."
+140,ENGINEER,Notes,Done,,,""
+141,ENGINEER,Sudden Load Spike Triggers (Timeline),To-Do,,"Sequence: Slack snap → wheel hop → camber release.","Timeline strip: slack → hop → spike → release; force spike graph; warning icons at each step."
+142,ENGINEER,Notes,Done,,,""
+143,ENGINEER,Failure Path Analysis: Bisector Danger,To-Do,,"Visualizing the 'Triangle of Danger' at the pulley bisector.","Snatch block diagram; bisector line; danger triangle shaded red; projectile path arrows."
+144,ENGINEER,Notes,Done,,,""
+145,ENGINEER,Failure Direction Quick Reference,To-Do,,"Arrows showing where gear flies during shackle vs winch line failure.","Two failure modes: shackle break (outward radial) vs rope snap (along line axis); arrow fans."
+146,ENGINEER,Notes,Done,,,""
+147,ENGINEER,MA Selection Logic (1:1/2:1/3:1),To-Do,,"Decision tree: When is 1:1 enough? When is 2:1 or 3:1 mandatory?","Flowchart: RLP vs hardware WLL → MA needed; rigging insets for each level."
+148,ENGINEER,Notes,Done,,,""
+149,ENGINEER,Stored Energy / Catenary Analysis,To-Do,,"How line weight/length affects stored energy.","Sag curve comparison: tight vs catenary; energy storage icons (small vs large); damper recommendation."
+150,ENGINEER,Notes,Done,,,""
+151,ENGINEER,Winch Layer Capacity vs RLP Check,To-Do,,"Formula for loss of pulling power on layer 2; 3; 4 of the drum.","Drum cross-section layers; capacity % drop per layer; check against RLP arrow."
+152,ENGINEER,Notes,Done,,,""
+153,ENGINEER,Weakest Link Identification Guide,To-Do,,"Finding the component in the rig with the lowest MBS.","System diagram with MBS numbers on each part; lowest highlighted red; replace callout."
+154,ENGINEER,Notes,Done,,,""
+155,FIELD,SECTION INTRO: FIELD,To-Do,,"Section divider: 'Field Rigging Blueprints & Case Studies.'","Header 'FIELD'; blueprint-style background with rigging lines; section letter F."
+156,FIELD,Notes,Done,,,""
+157,FIELD,Incident Briefing Form ICS 201,Done,F99-Incident-Briefing-Form-ICS-201.pdf,"Mini form layout: situation, objectives, resources, safety; fillable fields.",""
+158,FIELD,Notes,Done,,,""
+159,FIELD,Double Line Pull,Done,F01-Double-Line-Pull.pdf,"2:1 rigging isometric; MA arrows; fairlead/snatch block positions.",""
+160,FIELD,Notes,Done,,,""
+161,FIELD,Double Line Static Offset Anchor,Done,F01-Double-Line-Static-Offset-Anchor.pdf,"Offset anchor setup; 2:1 MA; angle effects minimized.",""
+162,FIELD,Notes,Done,,,""
+163,FIELD,Double Line Static Vehicle Anchor,Done,F01-Double-Line-Static-Vehicle-Anchor.pdf,"Vehicle-to-vehicle double line; chocks/brakes icons.",""
+164,FIELD,Notes,Done,,,""
+165,FIELD,Double Line Static,Done,F01-Double-Line-Static.pdf,"Basic 2:1 static; load sharing diagram.",""
+166,FIELD,Notes,Done,,,""
+167,FIELD,Single Line Pull,Done,F01-Single-Line-Pull.pdf,"Direct 1:1; alignment critical; fairlead straight-on view.",""
+168,FIELD,Notes,Done,,,""
+169,FIELD,Single Line Redirect Pull,Done,F01-Single-Line-Redirect-Pull.pdf,"Single block redirect; angle change; side-load warning.",""
+170,FIELD,Notes,Done,,,""
+171,FIELD,Single Line Redirect Static,Done,F01-Single-Line-Redirect-Static.pdf,"Static redirect; obstacle avoidance geometry.",""
+172,FIELD,Notes,Done,,,""
+173,FIELD,Single Line Static Offset Anchor,Done,F01-Single-Line-Static-Offset-Anchor.pdf,"Offset single line; pull direction adjustment.",""
+174,FIELD,Notes,Done,,,""
+175,FIELD,Single Line Static Vehicle Anchor,Done,F01-Single-Line-Static-Vehicle-Anchor.pdf,"Vehicle anchor single line; traction requirements.",""
+176,FIELD,Notes,Done,,,""
+177,FIELD,Single Line Static,Done,F01-Single-Line-Static.pdf,"Basic static pull; no MA gain.",""
+178,FIELD,Notes,Done,,,""
+179,FIELD,Spanish Burton Pull,Done,F01-Spanish-Burton-Pull.pdf,"Spanish Burton 3:1; block arrangement; high MA diagram.",""
+180,FIELD,Notes,Done,,,""
+181,FIELD,Spanish Burton Static Offset Anchor,Done,F01-Spanish-Burton-Static-Offset-Anchor.pdf,"Offset variant; pathing geometry.",""
+182,FIELD,Notes,Done,,,""
+183,FIELD,Spanish Burton Static Vehicle Anchor,Done,F01-Spanish-Burton-Static-Vehicle-Anchor.pdf,"Vehicle anchor Burton; MA arrows.",""
+184,FIELD,Notes,Done,,,""
+185,FIELD,Spanish Burton Static,Done,F01-Spanish-Burton-Static.pdf,"Core 3:1 configuration; load reduction.",""
+186,FIELD,Notes,Done,,,""
+187,FIELD,Triple Line Pull,Done,F01-Triple-Line-Pull.pdf,"3:1 basic; multiple blocks; high reduction.",""
+188,FIELD,Notes,Done,,,""
+189,FIELD,Triple Line Static Offset Anchor,Done,F01-Triple-Line-Static-Offset-Anchor.pdf,"Offset triple; compound geometry.",""
+190,FIELD,Notes,Done,,,""
+191,FIELD,Triple Line Static Vehicle Anchor,Done,F01-Triple-Line-Static-Vehicle-Anchor.pdf,"Vehicle anchor triple; traction emphasis.",""
+192,FIELD,Notes,Done,,,""
+193,FIELD,Triple Line Static,Done,F01-Triple-Line-Static.pdf,"Standard 3:1 static; force diagram.",""
+194,FIELD,Notes,Done,,,""
+195,FIELD,Redirect Doctrine,Done,F08-Redirect-Doctrine.pdf,"Redirect rules: max angle, side-load limits, multiple block use; icons.",""
+196,FIELD,Notes,Done,,,""
+197,FIELD,Damper Placement & Weighted Recoil,To-Do,,"The '1/3rd Rule' for damper placement.","Line with weight at 1/3 span; recoil reduction diagram; before/after snap-back zone comparison."
+198,FIELD,Notes,Done,,,""
+199,GO,SECTION INTRO: GO,To-Do,,"Section divider: 'Operation; Control & Maintenance.'","Header 'GO'; active pull arrow background; section letter G."
+200,GO,Notes,Done,,,""
+201,GO,Activity Log Form ICS214,Done,G-Activity-Log-Form-ICS214.pdf,"Mini log table: time, action, person, notes; fillable grid.",""
+202,GO,Notes,Done,,,""
+203,GO,Winch Clutch Operation,Done,G-Winch-Clutch-Operation.pdf,"Clutch in/out positions; free spool vs engaged icons.",""
+204,GO,Notes,Done,,,""
+205,GO,Winch Exposure,Done,G-Winch-Exposure.pdf,"Exposed vs recessed vs concealed; access/inspection icons.",""
+206,GO,Notes,Done,,,""
+207,GO,Winch Line Splicing,Done,G-Winching-Line-Splicing.pdf,"Bury splice steps (numbered diagrams); strength retention note.",""
+208,GO,Notes,Done,,,""
+209,GO,Winch Tips,Done,G-Winch-Tips.pdf,"Quick tips icons: even spooling, no shock loading, monitor heat.",""
+210,GO,Notes,Done,,,""
+211,GO,Winch Unspooling Line,Done,G-Winch-Unspooling-Line.pdf,"Correct payout under load; no free-spool pull warning.",""
+212,GO,Notes,Done,,,""
+213,GO,Winch Using The Remote,Done,G-Winch-Using-The-Remote.pdf,"Remote layout; safe stand position; plug-in warning.",""
+214,GO,Notes,Done,,,""
+215,GO,Duty Cycle: Motor Heat Management,To-Do,,"Heat markers and mandatory cooling intervals.","Temperature gauge icons: green → yellow → red; cooling timer (e.g., 10 min on / 10 off); smoke warning."
+216,GO,Notes,Done,,,""
+217,GO,Abort Conditions: Immediate Stop Criteria,To-Do,,"Visual list of E-Stop triggers.","Icon list: smoke, anchor move, line slip, person in zone, spike; large red E-STOP hand."
+218,GO,Notes,Done,,,""
+219,GO,Reassessment Triggers & Feedback Loop,To-Do,,"When the baseline changes; stop and re-index the plan.","Cycle diagram: pull → change (rain, slip) → reassess baseline → new plan; warning at break points."
+220,GO,Notes,Done,,,""
+221,EXTENSION,SECTION INTRO: EXTENSION,To-Do,,"Section divider: 'Legal Forms & Maintenance Logs.'","Header 'EXTENSION'; form + checklist background; section letter X."
+222,EXTENSION,Blank,Done,,,""
+223,EXTENSION,Release Form 1 of 3,Done,X-Release-Form-1-of-3.pdf,"Waiver page 1: risks assumption, release language.",""
+224,EXTENSION,Blank,Done,,,""
+225,EXTENSION,Release Form 2 of 3,Done,X-Release-Form-2-of-3.pdf,"Page 2: indemnity, authority to attach equipment.",""
+226,EXTENSION,Blank,Done,,,""
+227,EXTENSION,Release Form 3 of 3,Done,X-Release-Form-3-of-3.pdf,"Page 3: signature, date, governing law.",""
+228,EXTENSION,Blank,Done,,,""
+229,EXTENSION,Incident Outcome Log,To-Do,,"Capture success/failure; gear used; and Lessons Learned.","Table: outcome (success/fail), gear list, brief lessons; icon checkboxes."
+230,EXTENSION,Blank,Done,,,""
+231,EXTENSION,Post-Use Maintenance Checklist,To-Do,,"Cleaning synthetic rope and lubricating blocks.","Step icons: rinse rope, inspect, lube blocks, dry store; green complete boxes."
+232,EXTENSION,Blank,Done,,,""
+233,EXTENSION,Near-Miss / Failure Report Template,To-Do,,"Form for recording almost-accidents.","Timeline blanks: event → condition → near-miss → action; cause icons (gear/human/terrain)."
+234,EXTENSION,Blank,Done,,,""
+235,Admin,Glossary of Technical Terms,To-Do,,"Definitions for MBS; WLL; RLP; Snatch Block; etc.","Two-column list: term + short definition + small icon; alphabetical."
+236,Admin,Notes,Done,,,""
+237,Admin,Alphabetical Index,To-Do,,"Keyword lookup from A to Z.","Dense keyword list with page refs; bold section letters."
+238,Admin,Index Continued / Quick Ref Table,To-Do,,"Overflow index + master chart for rope sizing specs.","Continued index top; bottom: rope diameter/MBS/WLL quick chart."
+239,Admin,Quick Ref: Unit Conversions,To-Do,,"lbs to kgs; feet to meters rapid lookup.","Small conversion table; common recovery units (force, length, angle %)."
+240,Admin,Quick Ref: Signals & Comms,To-Do,,"Icon key for hand signals and radio pro-words.","Hand signal grid (stop, go, slow, more line); radio phrases (copy, over, E-stop)."
+241,Admin,About the Author / Revision Log,To-Do,,"Organization mission and version history.","Mission statement; revision table (date, changes, approved by)."
+242,Admin,Blank (Inside Back Cover),Done,,,""
+243,Admin,Outside Back Cover,To-Do,,"Final external branding and Barcode.","Back cover title repeat; large safety icon; barcode/QR; durable material note."
+244,Admin,End-Paper (Blank),Done,,,""
