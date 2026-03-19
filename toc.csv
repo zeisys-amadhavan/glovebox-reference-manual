@@ -45,24 +45,24 @@ Page,ID,Section,Page Title,Status,Filename,Page Brief/Context
 44,C03,COMPONENT,Notes,Done,,
 45,C04,COMPONENT,Winch Exploded View,Done,C-Winch-Exploded-View.pdf,Internal assembly
 46,C05,COMPONENT,Notes,Done,,
-47,C06,COMPONENT,Winch Label,Done,C-Winch-Label.pdf,WLL/MBS data plate
-48,C07,COMPONENT,Notes,Done,,
-49,C08,COMPONENT,Powered By (Electric/Hydraulic),Done,,Power source icons
-50,C09,COMPONENT,Notes,Done,,
+47,C06,DESIGN,Winch Label,Done,C-Winch-Label.pdf,Verify winch capacity (WLL) against the designed rigging load.
+48,C07,DESIGN,Notes,Done,,
+49,C08,DESIGN,Powered By,Done,,Design around power constraints (duty cycle, battery, or hydraulic limits).
+50,C09,DESIGN,Notes,Done,,
 51,C10,COMPONENT,Recovery Vehicle Specs,Done,,Traction and anchor labels
 52,C11,COMPONENT,Notes,Done,,
 53,C12,COMPONENT,Synthetic Rope Primer,Done,C-Synthetic-Rope-Primer.pdf,12-strand properties
 54,C13,COMPONENT,Notes,Done,,
-55,C14,COMPONENT,Synthetic Rope Sizing,Done,C-Synthetic-Rope-Sizing.pdf,Diameter vs MBS
-56,C15,COMPONENT,Notes,Done,,
-57,C16,COMPONENT,Synthetic Rope Specs,Done,C-Synthetic-Rope-Specs.pdf,Material comparison
-58,C17,COMPONENT,Notes,Done,,
-59,C18,COMPONENT,Synthetic Rope Criteria,Done,C-Synthetic-Rope-Criteria.pdf,Accept/Reject photos
-60,C19,COMPONENT,Notes,Done,,
-61,C20,COMPONENT,Synthetic Rope Care,Done,C-Synthetic-Rope-Care.pdf,Cleaning and storage
-62,C21,COMPONENT,Notes,Done,,
-63,C22,COMPONENT,Low Stored Energy Concepts,Done,,Elongation vs recoil graph
-64,C23,COMPONENT,Notes,Done,,
+55,C14,DESIGN,Synthetic Rope Sizing,Done,C-Synthetic-Rope-Sizing.pdf,Select appropriate line and drum-fill for the rigging plan.
+56,C15,DESIGN,Notes,Done,,
+57,C16,ENGINEER,Synthetic Rope Specs,Done,C-Synthetic-Rope-Specs.pdf,Technical reference for material properties and absolute breaking strengths.
+58,C17,ENGINEER,Notes,Done,,
+59,C18,ENGINEER,Synthetic Rope Criteria,Done,C-Synthetic-Rope-Criteria.pdf,Engineering standard for retirement/failure.
+60,C19,ENGINEER,Notes,Done,,
+61,C20,DESIGN,Path Protection Design,Done,C-Synthetic-Rope-Care.pdf,Using sleeves and guards to protect the line during the pull.
+62,C21,DESIGN,Notes,Done,,
+63,C22,ENGINEER,Low Stored Energy Concept,Done,,The physics of potential energy and kinetic recoil comparison.
+64,C23,ENGINEER,Notes,Done,,
 65,C24,COMPONENT,Winch Line Stopper,Done,C-Winch-Line-Stopper.pdf,Clamp installation
 66,C25,COMPONENT,Notes,Done,,
 67,C26,COMPONENT,Winch Line Hook Isolator,Done,C-Winch-Line-Hook-Isolator.pdf,Fairlead protection
@@ -83,12 +83,12 @@ Page,ID,Section,Page Title,Status,Filename,Page Brief/Context
 82,C41,COMPONENT,Notes,Done,,
 83,C42,COMPONENT,Anchor Ground (Portable),Done,C-Anchor-Ground.pdf,Soil holding diagrams
 84,C43,COMPONENT,Notes,Done,,
-85,C44,COMPONENT,Load Only On (Safe Loading),Done,,Green vs red zones
-86,C45,COMPONENT,Notes,Done,,
+85,C44,ENGINEER,Safe Loading Zones,Done,,The engineering limits of hardware: vector forces and side-loading risks.
+86,C45,ENGINEER,Notes,Done,,
 87,C46,COMPONENT,Winch System Components,Done,C-Winch-System-Components.pdf,A–P labeled diagram
 88,C47,COMPONENT,Notes,Done,,
-89,C48,COMPONENT,Winching 101,Done,C-Winching-101.pdf,Single line alignment
-90,C49,COMPONENT,Notes,Done,,
+89,C48,BASELINE,Winching 101,Done,C-Winching-101.pdf,Establishes the standard 1:1 direct pull as the "zero-point" baseline.
+90,C49,BASELINE,Notes,Done,,
 91,C50,COMPONENT,Reject/Accept: Hardware,To-Do,,Rust/pitting photos
 92,C51,COMPONENT,Notes,Done,,
 93,D00,DESIGN,SECTION INTRO: DESIGN,To-Do,,Strategic Rigging Geometry
