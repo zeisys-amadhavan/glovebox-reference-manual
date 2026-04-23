@@ -1,4 +1,4 @@
-﻿TITLE,SECTION,SECTIONN,SECTION PN,STATUS,FILENAME
+TITLE,SECTION,SECTIONN,SECTION PN,STATUS,FILENAME
 How to Use the Manual?,0,0,0,Done,000-How-to-Use-the-Manual
 Assess: Section Intro,ASSESS,A,1,Done,A01-Assess-Section-Intro
 OODA Loop,ASSESS,A,3,Done,A03-OODA-Loop
@@ -55,7 +55,7 @@ Traction Boards,COMPONENT,C,57,Done,C57-Traction-Boards
 Gear Decommision Procedure,COMPONENT,C,59,Done,C59-Gear-Decommision-Procedure
 Dangerous Misuses,COMPONENT,C,61,Done,C61-Dangerous-Misuses
 Components Inventory,COMPONENT,C,99,Done,C99-Components-Inventory
-Design: Section Intro,DESIGN,D,1,TBD,D01-Design-Section-Intro
+Design: Section Intro,DESIGN,D,1,TBD,
 WLL and MBS,DESIGN,D,3,Done,D03-WLL-and-MBS
 Strategic Pathing,DESIGN,D,5,Done,D05-Strategic-Pathing
 Redirect Doctrine,DESIGN,D,7,Done,D07-Redirect-Doctrine
@@ -67,7 +67,7 @@ Damper Placement,DESIGN,D,17,Done,D17-Damper-Placement
 Kill Zone Direct Pull,DESIGN,D,19,Done,D19-Kill-Zone-Direct-Pull
 Kill Zone Redirect,DESIGN,D,21,Done,D21-Kill-Zone-Redirect
 Incident Briefing Form ICS 201,DESIGN,D,99,Done,D99-Incident-Briefing-Form-ICS-201
-Engineer: Section Intro,ENGINEER,E,1,TBD,E01-Engineer-Section-Intro
+Engineer: Section Intro,ENGINEER,E,1,TBD,
 Mechanical Advantage,ENGINEER,E,3,Done,E03-Mechanical-Advantage
 Load Vectors Horizontal,ENGINEER,E,5,Done,E05-Load-Vectors-Horizontal
 Load Vectors Vertical,ENGINEER,E,7,Done,E07-Load-Vectors-Vertical
@@ -84,7 +84,7 @@ Failure Mechanisms Steel,ENGINEER,E,27,Done,E27-Failure-Mechanisms-Steel
 Required Load Pull,ENGINEER,E,29,Done,E29-Required-Load-Pull
 Readiness Buddy Check,ENGINEER,E,31,Done,E31-Readiness-Buddy-Check
 Incident Briefing Form ICS 201,ENGINEER,E,99,Done,E99-Incident-Briefing-Form-ICS-201
-Field: Section Intro,FIELD,F,1,TBD,F01-Field-Section-Intro
+Field: Section Intro,FIELD,F,1,TBD,
 Single Line Pull,FIELD,F,3,Done,F03-Single-Line-Pull
 Single Line Static,FIELD,F,5,Done,F05-Single-Line-Static
 Single Line Static Vehicle Anchor,FIELD,F,7,Done,F07-Single-Line-Static-Vehicle-Anchor
@@ -104,7 +104,7 @@ Spanish Burton Static,FIELD,F,33,Done,F33-Spanish-Burton-Static
 Spanish Burton Static Vehicle Anchor,FIELD,F,35,Done,F35-Spanish-Burton-Static-Vehicle-Anchor
 Spanish Burton Static Offset Anchor,FIELD,F,37,Done,F37-Spanish-Burton-Static-Offset-Anchor
 Master Pre Pull Checklist,FIELD,F,99,Done,F99-Master-Pre-Pull-Checklist
-Go: Section Intro,GO,G,1,TBD,G01-Go-Section-Intro
+Go: Section Intro,GO,G,1,TBD,
 Hand Gestures,GO,G,3,Done,G03-Hand-Gestures
 License Free Field Radios,GO,G,5,Done,G05-License-Free-Field-Radios
 Winch Exposure,GO,G,7,Done,G07-Winch-Exposure
@@ -118,7 +118,7 @@ Winding Line on Drum,XTENSION,X,1,Done,X01-Winding-Line-on-Drum
 Synthetic Rope Care,XTENSION,X,3,Done,X03-Synthetic-Rope-Care
 Winch Line Splicing,XTENSION,X,5,Done,X05-Winch-Line-Splicing
 Reversing Solenoids,XTENSION,X,7,Done,X07-Reversing-Solenoids
-Tips and Tricks,XTENSION,X,9,Done,X09-Tips-and-Tricks
+Tips and Tricks,XTENSION,X,9,Done,X09-Connecting-Rope-and-Strap
 Release Form 1 of 3,XTENSION,X,11,Done,X11-Release-Form-1-of-3
 Release Form 2 of 3,XTENSION,X,13,Done,X13-Release-Form-2-of-3
 Release Form 3 of 3,XTENSION,X,15,Done,X15-Release-Form-3-of-3
