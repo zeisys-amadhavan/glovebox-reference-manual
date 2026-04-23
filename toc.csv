@@ -1,4 +1,4 @@
-TITLE,SECTION,SECTIONN,SECTION PN,STATUS,FILENAME
+﻿TITLE,SECTION,SECTIONN,SECTION PN,STATUS,FILENAME
 How to Use the Manual?,0,0,0,Done,000-How-to-Use-the-Manual
 Assess: Section Intro,ASSESS,A,1,Done,A01-Assess-Section-Intro
 OODA Loop,ASSESS,A,3,Done,A03-OODA-Loop
@@ -11,16 +11,17 @@ Lightning Hazard,ASSESS,A,15,Done,A15-Lightning-Hazard
 Powerline Hazard,ASSESS,A,17,Done,A17-Powerline-Hazard
 Legal Liability,ASSESS,A,19,Done,A19-Legal-Liability
 Go No Go Decision,ASSESS,A,99,Done,A99-Go-No-Go-Decision
-Baseline: Section Intro,BASELINE,B,1,TBD,B01-Baseline-Section-Intro
-Incident Command Structure,BASELINE,B,3,Done,B03-Incident-Command-Structure
-Clearance Limits,BASELINE,B,5,Done,B05-Clearance-Limits
-Estimating Weight,BASELINE,B,7,Done,B07-Estimating-Weight
-Traction Problems,BASELINE,B,9,Done,B09-Traction-Problems
-Suction Mire Levels,BASELINE,B,11,Done,B11-Suction-Mire-Levels
-Terrain Weight Multipliers,BASELINE,B,13,Done,B13-Terrain-Weight-Multipliers
-Natural Anchor Health,BASELINE,B,15,Done,B15-Natural-Anchor-Health
-Anchor Mobile,BASELINE,B,17,Done,B17-Anchor-Mobile
-WLL and MBS,BASELINE,B,19,Done,B19-WLL-and-MBS
+Baseline: Section Intro,BASELINE,B,1,Done,B01-Baseline-Section-Intro
+Clearance Limits,BASELINE,B,3,Done,B03-Clearance-Limits
+Suction Mire Levels,BASELINE,B,5,Done,B05-Suction-Mire-Levels
+Traction Problems,BASELINE,B,7,Done,B07-Traction-Problems
+Terrain Weight Multipliers,BASELINE,B,9,Done,B09-Terrain-Weight-Multipliers
+Deviation 0 Incline 0 Risk,BASELINE,B,11,Done,B11-Deviation-0-Incline-0-Risk
+Deviation High Incline High Risk,BASELINE,B,13,Done,B13-Deviation-High-Incline-High-Risk
+Estimating Weight,BASELINE,B,15,Done,B15-Estimating-Weight
+Natural Anchor Health,BASELINE,B,17,Done,B17-Natural-Anchor-Health
+Anchor Mobile,BASELINE,B,19,Done,B19-Anchor-Mobile
+Incident Command Structure,BASELINE,B,21,Done,B21-Incident-Command-Structure
 Incident Briefing Form ICS 201,BASELINE,B,99,Done,B99-Incident-Briefing-Form-ICS-201
 Components: Section Intro,COMPONENT,C,1,Done,C01-Components-Section-Intro
 Winch Basics,COMPONENT,C,3,Done,C03-Winch-Basics
@@ -55,23 +56,22 @@ Gear Decommision Procedure,COMPONENT,C,59,Done,C59-Gear-Decommision-Procedure
 Dangerous Misuses,COMPONENT,C,61,Done,C61-Dangerous-Misuses
 Components Inventory,COMPONENT,C,99,Done,C99-Components-Inventory
 Design: Section Intro,DESIGN,D,1,TBD,D01-Design-Section-Intro
-Deviation 0 Incline 0 Risk,DESIGN,D,3,Done,D03-Deviation-0-Incline-0-Risk
-Deviation High Incline High Risk,DESIGN,D,5,Done,D05-Deviation-High-Incline-High-Risk
-Strategic Pathing,DESIGN,D,7,Done,D07-Strategic-Pathing
-Redirect Doctrine,DESIGN,D,9,Done,D09-Redirect-Doctrine
-Safety of Operator,DESIGN,D,11,Done,D11-Safety-of-Operator
-The Short Anchor Trap,DESIGN,D,13,Done,D13-The-Short-Anchor-Trap
-Improvised Anchors,DESIGN,D,15,Done,D15-Improvised-Anchors
-Weakest Link,DESIGN,D,17,TBD,D17-Weakest-Link
-Damper Placement,DESIGN,D,19,Done,D19-Damper-Placement
-Kill Zone Direct Pull,DESIGN,D,21,Done,D21-Kill-Zone-Direct-Pull
-Kill Zone Redirect,DESIGN,D,23,Done,D23-Kill-Zone-Redirect
+WLL and MBS,DESIGN,D,3,Done,D03-WLL-and-MBS
+Strategic Pathing,DESIGN,D,5,Done,D05-Strategic-Pathing
+Redirect Doctrine,DESIGN,D,7,Done,D07-Redirect-Doctrine
+Safety of Operator,DESIGN,D,9,Done,D09-Safety-of-Operator
+The Short Anchor Trap,DESIGN,D,11,Done,D11-The-Short-Anchor-Trap
+Improvised Anchors,DESIGN,D,13,Done,D13-Improvised-Anchors
+Weakest Link,DESIGN,D,15,Done,D15-Weakest-Link
+Damper Placement,DESIGN,D,17,Done,D17-Damper-Placement
+Kill Zone Direct Pull,DESIGN,D,19,Done,D19-Kill-Zone-Direct-Pull
+Kill Zone Redirect,DESIGN,D,21,Done,D21-Kill-Zone-Redirect
 Incident Briefing Form ICS 201,DESIGN,D,99,Done,D99-Incident-Briefing-Form-ICS-201
 Engineer: Section Intro,ENGINEER,E,1,TBD,E01-Engineer-Section-Intro
 Mechanical Advantage,ENGINEER,E,3,Done,E03-Mechanical-Advantage
 Load Vectors Horizontal,ENGINEER,E,5,Done,E05-Load-Vectors-Horizontal
 Load Vectors Vertical,ENGINEER,E,7,Done,E07-Load-Vectors-Vertical
-Electrical Load,ENGINEER,E,9,TBD,E09-Electrical-Load
+Electrical Load,ENGINEER,E,9,Done,E09-Electrical-Load
 Differential,ENGINEER,E,11,Done,E11-Differential
 Gear Selector,ENGINEER,E,13,Done,E13-Gear-Selector
 4WD 4H,ENGINEER,E,15,Done,E15-4WD-4H
@@ -114,11 +114,11 @@ Winch Unspooling Line,GO,G,13,Done,G13-Winch-Unspooling-Line
 Stop and Reassess Trigger,GO,G,15,Done,G15-Stop-and-Reassess-Trigger
 Winch Tips,GO,G,17,Done,G17-Winch-Tips
 Activity Log Form ICS214,GO,G,99,Done,G99-Activity-Log-Form-ICS214
-Winding Line on Drum,XTENSION,X,1,TBD,X01-Winding-Line-on-Drum
+Winding Line on Drum,XTENSION,X,1,Done,X01-Winding-Line-on-Drum
 Synthetic Rope Care,XTENSION,X,3,Done,X03-Synthetic-Rope-Care
 Winch Line Splicing,XTENSION,X,5,Done,X05-Winch-Line-Splicing
 Reversing Solenoids,XTENSION,X,7,Done,X07-Reversing-Solenoids
-Tips and Tricks,XTENSION,X,9,TBD,X09-Tips-and-Tricks
-Release Form 1 of 3,XTENSION,X,11,TBD,X11-Release-Form-1-of-3
-Release Form 2 of 3,XTENSION,X,13,TBD,X13-Release-Form-2-of-3
-Release Form 3 of 3,XTENSION,X,15,TBD,X15-Release-Form-3-of-3
+Tips and Tricks,XTENSION,X,9,Done,X09-Tips-and-Tricks
+Release Form 1 of 3,XTENSION,X,11,Done,X11-Release-Form-1-of-3
+Release Form 2 of 3,XTENSION,X,13,Done,X13-Release-Form-2-of-3
+Release Form 3 of 3,XTENSION,X,15,Done,X15-Release-Form-3-of-3
