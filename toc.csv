@@ -1,4 +1,4 @@
-TITLE,SECTION,SECTIONN,SECTION PN,STATUS,FILENAME
+﻿TITLE,SECTION,SECTIONN,SECTION PN,STATUS,FILENAME
 How to Use the Manual?,0,0,0,Done,000-How-to-Use-the-Manual
 Assess: Section Intro,ASSESS,A,1,Done,A01-Assess-Section-Intro
 OODA Loop,ASSESS,A,3,Done,A03-OODA-Loop
@@ -12,16 +12,16 @@ Powerline Hazard,ASSESS,A,17,Done,A17-Powerline-Hazard
 Legal Liability,ASSESS,A,19,Done,A19-Legal-Liability
 Go No Go Decision,ASSESS,A,99,Done,A99-Go-No-Go-Decision
 Baseline: Section Intro,BASELINE,B,1,Done,B01-Baseline-Section-Intro
-Clearance Limits,BASELINE,B,3,Done,B03-Clearance-Limits
-Suction Mire Levels,BASELINE,B,5,Done,B05-Suction-Mire-Levels
-Traction Problems,BASELINE,B,7,Done,B07-Traction-Problems
-Terrain Weight Multipliers,BASELINE,B,9,Done,B09-Terrain-Weight-Multipliers
-Deviation 0 Incline 0 Risk,BASELINE,B,11,Done,B11-Deviation-0-Incline-0-Risk
-Deviation High Incline High Risk,BASELINE,B,13,Done,B13-Deviation-High-Incline-High-Risk
-Estimating Weight,BASELINE,B,15,Done,B15-Estimating-Weight
-Natural Anchor Health,BASELINE,B,17,Done,B17-Natural-Anchor-Health
-Anchor Mobile,BASELINE,B,19,Done,B19-Anchor-Mobile
-Incident Command Structure,BASELINE,B,21,Done,B21-Incident-Command-Structure
+Incident Command Structure,BASELINE,B,3,Done,B03-Incident-Command-Structure
+Clearance Limits,BASELINE,B,5,Done,B05-Clearance-Limits
+Estimating Weight,BASELINE,B,7,Done,B07-Estimating-Weight
+Traction Problems,BASELINE,B,9,Done,B09-Traction-Problems
+Suction Mire Levels,BASELINE,B,11,Done,B11-Suction-Mire-Levels
+Terrain Weight Multipliers,BASELINE,B,13,Done,B13-Terrain-Weight-Multipliers
+Deviation 0 Incline 0 Risk,BASELINE,B,15,Done,B15-Deviation-0-Incline-0-Risk
+Deviation High Incline High Risk,BASELINE,B,17,Done,B17-Deviation-High-Incline-High-Risk
+Natural Anchor Health,BASELINE,B,19,Done,B19-Natural-Anchor-Health
+Anchor Mobile,BASELINE,B,21,Done,B21-Anchor-Mobile
 Incident Briefing Form ICS 201,BASELINE,B,99,Done,B99-Incident-Briefing-Form-ICS-201
 Components: Section Intro,COMPONENT,C,1,Done,C01-Components-Section-Intro
 Winch Basics,COMPONENT,C,3,Done,C03-Winch-Basics
@@ -55,56 +55,56 @@ Traction Boards,COMPONENT,C,57,Done,C57-Traction-Boards
 Gear Decommision Procedure,COMPONENT,C,59,Done,C59-Gear-Decommision-Procedure
 Dangerous Misuses,COMPONENT,C,61,Done,C61-Dangerous-Misuses
 Components Inventory,COMPONENT,C,99,Done,C99-Components-Inventory
-Design: Section Intro,DESIGN,D,1,TBD,
-WLL and MBS,DESIGN,D,3,Done,D03-WLL-and-MBS
-Strategic Pathing,DESIGN,D,5,Done,D05-Strategic-Pathing
-Redirect Doctrine,DESIGN,D,7,Done,D07-Redirect-Doctrine
-Safety of Operator,DESIGN,D,9,Done,D09-Safety-of-Operator
-The Short Anchor Trap,DESIGN,D,11,Done,D11-The-Short-Anchor-Trap
-Improvised Anchors,DESIGN,D,13,Done,D13-Improvised-Anchors
-Weakest Link,DESIGN,D,15,Done,D15-Weakest-Link
-Damper Placement,DESIGN,D,17,Done,D17-Damper-Placement
-Kill Zone Direct Pull,DESIGN,D,19,Done,D19-Kill-Zone-Direct-Pull
-Kill Zone Redirect,DESIGN,D,21,Done,D21-Kill-Zone-Redirect
+Design: Section Intro,DESIGN,D,1,Done,D01-Design-Section-Intro
+Strategic Pathing,DESIGN,D,3,Done,D03-Strategic-Pathing
+Rig Architecture,DESIGN,D,5,Done,D05-Rig-Architecture
+WLL and MBS,DESIGN,D,7,Done,D07-WLL-and-MBS
+Weakest Link,DESIGN,D,9,Done,D09-Weakest-Link
+Improvised Anchors,DESIGN,D,11,Done,D11-Improvised-Anchors
+Redirect Doctrine,DESIGN,D,13,Done,D13-Redirect-Doctrine
+Offset Doctrine,DESIGN,D,15,Done,D15-Offset-Doctrine
+The Short Anchor Trap,DESIGN,D,17,Done,D17-The-Short-Anchor-Trap
+Damper Placement,DESIGN,D,19,Done,D19-Damper-Placement
+Safety of Operator,DESIGN,D,21,Done,D21-Safety-of-Operator
+Kill Zone Direct Pull,DESIGN,D,23,Done,D23-Kill-Zone-Direct-Pull
+Kill Zone Redirect,DESIGN,D,25,Done,D25-Kill-Zone-Redirect
 Incident Briefing Form ICS 201,DESIGN,D,99,Done,D99-Incident-Briefing-Form-ICS-201
-Engineer: Section Intro,ENGINEER,E,1,TBD,
-Mechanical Advantage,ENGINEER,E,3,Done,E03-Mechanical-Advantage
-Load Vectors Horizontal,ENGINEER,E,5,Done,E05-Load-Vectors-Horizontal
-Load Vectors Vertical,ENGINEER,E,7,Done,E07-Load-Vectors-Vertical
-Electrical Load,ENGINEER,E,9,Done,E09-Electrical-Load
-Differential,ENGINEER,E,11,Done,E11-Differential
-Gear Selector,ENGINEER,E,13,Done,E13-Gear-Selector
-4WD 4H,ENGINEER,E,15,Done,E15-4WD-4H
-4WD 4L,ENGINEER,E,17,Done,E17-4WD-4L
-4WD 4L Differential Lock,ENGINEER,E,19,Done,E19-4WD-4L-Differential-Lock
-AWD,ENGINEER,E,21,Done,E21-AWD
-Failure Cause and Effect,ENGINEER,E,23,Done,E23-Failure-Cause-and-Effect
-Failure Mechanisms Plastic,ENGINEER,E,25,Done,E25-Failure-Mechanisms-Plastic
-Failure Mechanisms Steel,ENGINEER,E,27,Done,E27-Failure-Mechanisms-Steel
-Required Load Pull,ENGINEER,E,29,Done,E29-Required-Load-Pull
-Readiness Buddy Check,ENGINEER,E,31,Done,E31-Readiness-Buddy-Check
+Engineer: Section Intro,ENGINEER,E,1,Done,E01-Engineer-Section-Intro
+Components of a Rig,ENGINEER,E,3,Done,E03-Components-of-a-Rig
+Number of Lines,ENGINEER,E,5,Done,E05-Number-of-Lines
+Mechanical Advantage,ENGINEER,E,7,Done,E07-Mechanical-Advantage
+Load Vectors Horizontal,ENGINEER,E,9,Done,E09-Load-Vectors-Horizontal
+Load Vectors Vertical,ENGINEER,E,11,Done,E11-Load-Vectors-Vertical
+Required Load Pull,ENGINEER,E,13,Done,E13-Required-Load-Pull
+Electrical Load,ENGINEER,E,15,Done,E15-Electrical-Load
+Differential,ENGINEER,E,17,Done,E17-Differential
+Gear Selector,ENGINEER,E,19,Done,E19-Gear-Selector
+4WD 4H,ENGINEER,E,21,Done,E21-4WD-4H
+4WD 4L,ENGINEER,E,23,Done,E23-4WD-4L
+4WD 4L Differential Lock,ENGINEER,E,25,Done,E25-4WD-4L-Differential-Lock
+AWD,ENGINEER,E,27,Done,E27-AWD
+Failure Cause and Effect,ENGINEER,E,29,Done,E29-Failure-Cause-and-Effect
+Failure Mechanisms Plastic,ENGINEER,E,31,Done,E31-Failure-Mechanisms-Plastic
+Failure Mechanisms Steel,ENGINEER,E,33,Done,E33-Failure-Mechanisms-Steel
+Readiness Buddy Check,ENGINEER,E,35,Done,E35-Readiness-Buddy-Check
 Incident Briefing Form ICS 201,ENGINEER,E,99,Done,E99-Incident-Briefing-Form-ICS-201
-Field: Section Intro,FIELD,F,1,TBD,
-Single Line Pull,FIELD,F,3,Done,F03-Single-Line-Pull
-Single Line Static,FIELD,F,5,Done,F05-Single-Line-Static
-Single Line Static Vehicle Anchor,FIELD,F,7,Done,F07-Single-Line-Static-Vehicle-Anchor
-Single Line Static Offset Anchor,FIELD,F,9,Done,F09-Single-Line-Static-Offset-Anchor
-Single Line Redirect Pull,FIELD,F,11,Done,F11-Single-Line-Redirect-Pull
-Single Line Redirect Static,FIELD,F,13,Done,F13-Single-Line-Redirect-Static
-Double Line Pull,FIELD,F,15,Done,F15-Double-Line-Pull
-Double Line Static,FIELD,F,17,Done,F17-Double-Line-Static
-Double Line Static Vehicle Anchor,FIELD,F,19,Done,F19-Double-Line-Static-Vehicle-Anchor
-Double Line Static Offset Anchor,FIELD,F,21,Done,F21-Double-Line-Static-Offset-Anchor
-Triple Line Pull,FIELD,F,23,Done,F23-Triple-Line-Pull
-Triple Line Static,FIELD,F,25,Done,F25-Triple-Line-Static
-Triple Line Static Vehicle Anchor,FIELD,F,27,Done,F27-Triple-Line-Static-Vehicle-Anchor
-Triple Line Static Offset Anchor,FIELD,F,29,Done,F29-Triple-Line-Static-Offset-Anchor
-Spanish Burton Pull,FIELD,F,31,Done,F31-Spanish-Burton-Pull
-Spanish Burton Static,FIELD,F,33,Done,F33-Spanish-Burton-Static
-Spanish Burton Static Vehicle Anchor,FIELD,F,35,Done,F35-Spanish-Burton-Static-Vehicle-Anchor
-Spanish Burton Static Offset Anchor,FIELD,F,37,Done,F37-Spanish-Burton-Static-Offset-Anchor
+Field: Section Intro,FIELD,F,1,TBD,F01-Field-Section-Intro
+Single Line,FIELD,F,3,TBD,F03-Single-Line
+Double Line,FIELD,F,5,TBD,F05-Double-Line
+Single Line Redirect,FIELD,F,7,TBD,F07-Single-Line-Redirect
+Single Line Vehicle Anchor,FIELD,F,9,TBD,F09-Single-Line-Vehicle-Anchor
+Double Line Static Offset Anchor,FIELD,F,11,TBD,F11-Double-Line-Static-Offset-Anchor
+Double Line Static Offset Anchor,FIELD,F,13,TBD,F13-Double-Line-Static-Offset-Anchor
+Single Line Redirect Static Anchor,FIELD,F,15,TBD,F15-Single-Line-Redirect-Static-Anchor
+Double Line Redirect,FIELD,F,17,TBD,F17-Double-Line-Redirect
+Triple Line,FIELD,F,19,TBD,F19-Triple-Line
+Spanish Burton,FIELD,F,21,TBD,F21-Spanish-Burton
+Triple Line Vehicle Anchor,FIELD,F,23,TBD,F23-Triple-Line-Vehicle-Anchor
+Spanish Burton Vehicle Anchor,FIELD,F,25,TBD,F25-Spanish-Burton-Vehicle-Anchor
+Triple Line Offset,FIELD,F,27,TBD,F27-Triple-Line-Offset
+Spanish Burton Ofset,FIELD,F,29,TBD,F29-Spanish-Burton-Ofset
 Master Pre Pull Checklist,FIELD,F,99,Done,F99-Master-Pre-Pull-Checklist
-Go: Section Intro,GO,G,1,TBD,
+Go: Section Intro,GO,G,1,TBD,G01-Go-Section-Intro
 Hand Gestures,GO,G,3,Done,G03-Hand-Gestures
 License Free Field Radios,GO,G,5,Done,G05-License-Free-Field-Radios
 Winch Exposure,GO,G,7,Done,G07-Winch-Exposure
@@ -118,7 +118,7 @@ Winding Line on Drum,XTENSION,X,1,Done,X01-Winding-Line-on-Drum
 Synthetic Rope Care,XTENSION,X,3,Done,X03-Synthetic-Rope-Care
 Winch Line Splicing,XTENSION,X,5,Done,X05-Winch-Line-Splicing
 Reversing Solenoids,XTENSION,X,7,Done,X07-Reversing-Solenoids
-Tips and Tricks,XTENSION,X,9,Done,X09-Connecting-Rope-and-Strap
+Tips and Tricks,XTENSION,X,9,Done,X09-Tips-and-Tricks
 Release Form 1 of 3,XTENSION,X,11,Done,X11-Release-Form-1-of-3
 Release Form 2 of 3,XTENSION,X,13,Done,X13-Release-Form-2-of-3
-Release Form 3 of 3,XTENSION,X,15,Done,X15-Release-Form-3-of-3
+Release Form 3 of 3,XTENSION,X,99,Done,X99-Release-Form-3-of-3
