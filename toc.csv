@@ -1,4 +1,5 @@
 ﻿TITLE,SECTION,SECTIONN,SECTION PN,STATUS,FILENAME
+Cover Page,0,0,Done,,Cover-Page.pdf
 How to Use the Manual?,0,0,0,Done,000-How-to-Use-the-Manual
 Assess: Section Intro,ASSESS,A,1,Done,A01-Assess-Section-Intro
 OODA Loop,ASSESS,A,3,Done,A03-OODA-Loop
@@ -88,31 +89,32 @@ Failure Mechanisms Plastic,ENGINEER,E,31,Done,E31-Failure-Mechanisms-Plastic
 Failure Mechanisms Steel,ENGINEER,E,33,Done,E33-Failure-Mechanisms-Steel
 Readiness Buddy Check,ENGINEER,E,35,Done,E35-Readiness-Buddy-Check
 Incident Briefing Form ICS 201,ENGINEER,E,99,Done,E99-Incident-Briefing-Form-ICS-201
-Field: Section Intro,FIELD,F,1,TBD,F01-Field-Section-Intro
-Single Line,FIELD,F,3,TBD,F03-Single-Line
-Double Line,FIELD,F,5,TBD,F05-Double-Line
-Single Line Redirect,FIELD,F,7,TBD,F07-Single-Line-Redirect
-Single Line Vehicle Anchor,FIELD,F,9,TBD,F09-Single-Line-Vehicle-Anchor
-Double Line Static Offset Anchor,FIELD,F,11,TBD,F11-Double-Line-Static-Offset-Anchor
-Double Line Static Offset Anchor,FIELD,F,13,TBD,F13-Double-Line-Static-Offset-Anchor
-Single Line Redirect Static Anchor,FIELD,F,15,TBD,F15-Single-Line-Redirect-Static-Anchor
-Double Line Redirect,FIELD,F,17,TBD,F17-Double-Line-Redirect
-Triple Line,FIELD,F,19,TBD,F19-Triple-Line
-Spanish Burton,FIELD,F,21,TBD,F21-Spanish-Burton
-Triple Line Vehicle Anchor,FIELD,F,23,TBD,F23-Triple-Line-Vehicle-Anchor
-Spanish Burton Vehicle Anchor,FIELD,F,25,TBD,F25-Spanish-Burton-Vehicle-Anchor
-Triple Line Offset,FIELD,F,27,TBD,F27-Triple-Line-Offset
-Spanish Burton Ofset,FIELD,F,29,TBD,F29-Spanish-Burton-Ofset
+Field: Section Intro,FIELD,F,1,Done,F01-Field-Section-Intro
+Single Line,FIELD,F,3,Done,F03-Single-Line
+Double Line,FIELD,F,5,Done,F05-Double-Line
+Single Line Redirect,FIELD,F,7,Done,F07-Single-Line-Redirect
+Single Line Vehicle Anchor,FIELD,F,9,Done,F09-Single-Line-Vehicle-Anchor
+Double Line Static Offset Anchor,FIELD,F,11,Done,F11-Double-Line-Vehicle-Anchor.pdf
+Double Line Static Offset Anchor,FIELD,F,13,Done,F13-Double-Line-Static-Offset.pdf
+Single Line Redirect Static Anchor,FIELD,F,15,Done,F15-Single-Line-Static-Redirect.pdf
+Double Line Redirect,FIELD,F,17,Done,F17-Double-Line-Redirect
+Triple Line,FIELD,F,19,Done,F19-Triple-Line
+Spanish Burton,FIELD,F,21,Done,F21-Spanish-Burton
+Triple Line Vehicle Anchor,FIELD,F,23,Done,F23-Triple-Line-Vehicle-Anchor
+Spanish Burton Vehicle Anchor,FIELD,F,25,Done,F25-Spanish-Burton-Vehicle-Anchor
+Triple Line Offset,FIELD,F,27,Done,F27-Triple-Line-Static-Offset.pdf
+Spanish Burton Ofset,FIELD,F,29,Done,F29-Spanish-Burton-Static-Offset.pdf
 Master Pre Pull Checklist,FIELD,F,99,Done,F99-Master-Pre-Pull-Checklist
-Go: Section Intro,GO,G,1,TBD,G01-Go-Section-Intro
+Go: Section Intro,GO,G,1,Done,G01-Go-Section-Intro
 Hand Gestures,GO,G,3,Done,G03-Hand-Gestures
 License Free Field Radios,GO,G,5,Done,G05-License-Free-Field-Radios
 Winch Exposure,GO,G,7,Done,G07-Winch-Exposure
 Winch Using The Remote,GO,G,9,Done,G09-Winch-Using-The-Remote
 Winch Clutch Operation,GO,G,11,Done,G11-Winch-Clutch-Operation
 Winch Unspooling Line,GO,G,13,Done,G13-Winch-Unspooling-Line
-Stop and Reassess Trigger,GO,G,15,Done,G15-Stop-and-Reassess-Trigger
-Winch Tips,GO,G,17,Done,G17-Winch-Tips
+Pre-Tension Line,GO,G,15,Done,G15-Pre-Tension-Line
+Stop and Reassess Trigger,GO,G,17,Done,G17-Stop-and-Reassess-Trigger
+Winch Tips,GO,G,19,Done,G19-Winch-Tips
 Activity Log Form ICS214,GO,G,99,Done,G99-Activity-Log-Form-ICS214
 Winding Line on Drum,XTENSION,X,1,Done,X01-Winding-Line-on-Drum
 Synthetic Rope Care,XTENSION,X,3,Done,X03-Synthetic-Rope-Care
@@ -121,4 +123,10 @@ Reversing Solenoids,XTENSION,X,7,Done,X07-Reversing-Solenoids
 Tips and Tricks,XTENSION,X,9,Done,X09-Tips-and-Tricks
 Release Form 1 of 3,XTENSION,X,11,Done,X11-Release-Form-1-of-3
 Release Form 2 of 3,XTENSION,X,13,Done,X13-Release-Form-2-of-3
-Release Form 3 of 3,XTENSION,X,99,Done,X99-Release-Form-3-of-3
+Release Form 3 of 3,XTENSION,X,15,Done,X15-Release-Form-3-of-3
+X17-Go-No-Go-Checklist,XTENSION,X,17,TBD,X17-Go-No-Go-Checklist
+X19-Modified-ICS-201-Form,XTENSION,X,19,TBD,X19-Modified-ICS-201-Form
+X21-Modified-ICS-218-Form,XTENSION,X,21,TBD,X21-Modified-ICS-218-Form
+X23-Buddy-Checklist,XTENSION,X,23,TBD,X23-Buddy-Checklist
+X25-Master-Pre-Pull-Checklist,XTENSION,X,25,TBD,X25-Master-Pre-Pull-Checklist
+X27-Modified-ICS-214-Form,XTENSION,X,27,TBD,X27-Modified-ICS-214-Form
