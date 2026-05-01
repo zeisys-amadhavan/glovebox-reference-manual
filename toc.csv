@@ -1,6 +1,10 @@
 ﻿TITLE,SECTION,SECTIONN,SECTION PN,STATUS,FILENAME
-Cover Page,0,0,Done,,Cover-Page.pdf
-How to Use the Manual?,0,0,0,Done,000-How-to-Use-the-Manual
+Cover Page,0,0,a,Done,000-a-Cover-Page.pdf
+Inside Cover Page,0,0,c,Done,000-c-Inside-Cover.pdf
+Copyright Page,0,0,e,Done,000-e-Copyright-Page.pdf
+Acknowledgement,0,0,g,Done,000-g-acknowledgement.pdf
+Contents,0,0,i,Done,000-i-Contents.pdf
+How to Use the Manual?,0,0,k,Done,000-k-How-to-Use-the-Manual.pdf
 Assess: Section Intro,ASSESS,A,1,Done,A01-Assess-Section-Intro
 OODA Loop,ASSESS,A,3,Done,A03-OODA-Loop
 Winching Towing Hoisting,ASSESS,A,5,Done,A05-Winching-Towing-Hoisting
@@ -11,7 +15,7 @@ Landslide Hazard,ASSESS,A,13,Done,A13-Landslide-Hazard
 Lightning Hazard,ASSESS,A,15,Done,A15-Lightning-Hazard
 Powerline Hazard,ASSESS,A,17,Done,A17-Powerline-Hazard
 Legal Liability,ASSESS,A,19,Done,A19-Legal-Liability
-Go No Go Decision,ASSESS,A,99,Done,A99-Go-No-Go-Decision
+Go No Go Decision,ASSESS,A,99,Done,A21-Go-No-Go-Decision.pdf
 Baseline: Section Intro,BASELINE,B,1,Done,B01-Baseline-Section-Intro
 Incident Command Structure,BASELINE,B,3,Done,B03-Incident-Command-Structure
 Clearance Limits,BASELINE,B,5,Done,B05-Clearance-Limits
@@ -25,10 +29,10 @@ Natural Anchor Health,BASELINE,B,19,Done,B19-Natural-Anchor-Health
 Anchor Mobile,BASELINE,B,21,Done,B21-Anchor-Mobile
 Incident Briefing Form ICS 201,BASELINE,B,99,Done,B99-Incident-Briefing-Form-ICS-201
 Components: Section Intro,COMPONENT,C,1,Done,C01-Components-Section-Intro
-Winch Basics,COMPONENT,C,3,Done,C03-Winch-Basics
-Winch Exploded View,COMPONENT,C,5,Done,C05-Winch-Exploded-View
-Winch Label,COMPONENT,C,7,Done,C07-Winch-Label
-Hydraulic vs Electric Winches,COMPONENT,C,9,Done,C09-Hydraulic-vs-Electric-Winches
+Winch Basics,COMPONENT,C,5,Done,C05-Winch-Basics.pdf
+Winch Exploded View,COMPONENT,C,7,Done,C07-Winch-Exploded-View.pdf
+Winch Label,COMPONENT,C,9,Done,C09-Winch-Label.pdf
+Hydraulic vs Electric Winches,COMPONENT,C,3,Done,C03-Hydraulic-vs-Electric-Winches.pdf
 Fairleads,COMPONENT,C,11,Done,C11-Fairleads
 Synthetic Rope Primer,COMPONENT,C,13,Done,C13-Synthetic-Rope-Primer
 Synthetic Rope Criteria,COMPONENT,C,15,Done,C15-Synthetic-Rope-Criteria
@@ -58,13 +62,13 @@ Dangerous Misuses,COMPONENT,C,61,Done,C61-Dangerous-Misuses
 Components Inventory,COMPONENT,C,99,Done,C99-Components-Inventory
 Design: Section Intro,DESIGN,D,1,Done,D01-Design-Section-Intro
 Strategic Pathing,DESIGN,D,3,Done,D03-Strategic-Pathing
-Rig Architecture,DESIGN,D,5,Done,D05-Rig-Architecture
-WLL and MBS,DESIGN,D,7,Done,D07-WLL-and-MBS
-Weakest Link,DESIGN,D,9,Done,D09-Weakest-Link
-Improvised Anchors,DESIGN,D,11,Done,D11-Improvised-Anchors
-Redirect Doctrine,DESIGN,D,13,Done,D13-Redirect-Doctrine
-Offset Doctrine,DESIGN,D,15,Done,D15-Offset-Doctrine
-The Short Anchor Trap,DESIGN,D,17,Done,D17-The-Short-Anchor-Trap
+Rig Architecture,DESIGN,D,17,Done,D17-Rig-Architecture.pdf
+WLL and MBS,DESIGN,D,5,Done,D05-WLL-and-MBS.pdf
+Weakest Link,DESIGN,D,7,Done,D07-Weakest-Link.pdf
+Improvised Anchors,DESIGN,D,9,Done,D09-Improvised-Anchors.pdf
+Redirect Doctrine,DESIGN,D,11,Done,D11-Redirect-Doctrine.pdf
+Offset Doctrine,DESIGN,D,13,Done,D13-Offset-Doctrine.pdf
+The Short Anchor Trap,DESIGN,D,15,Done,D15-The-Short-Anchor-Trap.pdf
 Damper Placement,DESIGN,D,19,Done,D19-Damper-Placement
 Safety of Operator,DESIGN,D,21,Done,D21-Safety-of-Operator
 Kill Zone Direct Pull,DESIGN,D,23,Done,D23-Kill-Zone-Direct-Pull
@@ -78,7 +82,7 @@ Load Vectors Horizontal,ENGINEER,E,9,Done,E09-Load-Vectors-Horizontal
 Load Vectors Vertical,ENGINEER,E,11,Done,E11-Load-Vectors-Vertical
 Required Load Pull,ENGINEER,E,13,Done,E13-Required-Load-Pull
 Electrical Load,ENGINEER,E,15,Done,E15-Electrical-Load
-Differential,ENGINEER,E,17,Done,E17-Differential
+Differential,ENGINEER,E,17,Done,E17-Differential-Lock.pdf
 Gear Selector,ENGINEER,E,19,Done,E19-Gear-Selector
 4WD 4H,ENGINEER,E,21,Done,E21-4WD-4H
 4WD 4L,ENGINEER,E,23,Done,E23-4WD-4L
@@ -124,9 +128,13 @@ Tips and Tricks,XTENSION,X,9,Done,X09-Tips-and-Tricks
 Release Form 1 of 3,XTENSION,X,11,Done,X11-Release-Form-1-of-3
 Release Form 2 of 3,XTENSION,X,13,Done,X13-Release-Form-2-of-3
 Release Form 3 of 3,XTENSION,X,15,Done,X15-Release-Form-3-of-3
-X17-Go-No-Go-Checklist,XTENSION,X,17,TBD,X17-Go-No-Go-Checklist
-X19-Modified-ICS-201-Form,XTENSION,X,19,TBD,X19-Modified-ICS-201-Form
-X21-Modified-ICS-218-Form,XTENSION,X,21,TBD,X21-Modified-ICS-218-Form
-X23-Buddy-Checklist,XTENSION,X,23,TBD,X23-Buddy-Checklist
-X25-Master-Pre-Pull-Checklist,XTENSION,X,25,TBD,X25-Master-Pre-Pull-Checklist
-X27-Modified-ICS-214-Form,XTENSION,X,27,TBD,X27-Modified-ICS-214-Form
+X17-Go-No-Go-Checklist,XTENSION,X,17,Done,X17-Go-No-Go-Decision-Checklist.pdf
+X19-Modified-ICS-201-Form,XTENSION,X,19,Done,X19-ICS-201-Form.pdf
+X21-Modified-ICS-218-Form,XTENSION,X,21,Done,X21-ICS-218-Form-Modified.pdf
+X23-Buddy-Checklist,XTENSION,X,23,Done,X23-Buddy-Checklist
+X25-Master-Pre-Pull-Checklist,XTENSION,X,25,Done,X25-Master-Pre-Pull-Checklist
+X27-Modified-ICS-214-Form,XTENSION,X,27,Done,X27-ICS-214-Form.pdf
+Index,Z,Z,t,Done,Z00-t-Index.pdf
+Glossary,Z,Z,v,Done,Z00-v-Glossary.pdf
+Index,Z,Z,x,Done,Z00-x-Last-Page.pdf
+Back Cover,Z,Z,z,Done,Z00-z-Back-Cover
