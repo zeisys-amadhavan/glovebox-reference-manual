@@ -1,1 +1,16 @@
-# glovebox-reference-manual
+This is the prompt for nano banana pro in aistudio.google.com or firefly.adobe.com to create manual ready black and white drawings.  
+
+
+Low Detail Drawing
+-------------------
+
+ULTRA-CLEAN LINE ART FOR VECTOR TRACING of the attached image: Centered, clear, and ruthlessly simplified. High-resolution, crisp black and white line art. Technical drawing style with perfectly sharp edges. Absolutely NO anti-aliasing, no gray tones, no gradients, no texture, no shadows, and no background objects. Solid, uniform black outlines with minimal, deliberate internal lines to define key features only. Pure, plain white background. The image must look identical to a clean vector graphic, ready for a single-click image trace and conversion to a precise line diagram.
+
+
+High Detail Drawing
+-------------------
+ULTRA-CLEAN HIGH-DETAIL LINE ART FOR VECTOR TRACING of the attached image: centered, mechanically accurate, and richly detailed. Crisp black-and-white technical drawing with perfectly sharp edges. No anti-aliasing, gray, gradients, texture, shadows, or background objects. Solid uniform black outlines with dense, deliberate internal linework showing construction, joints, fasteners, seams, grooves, fillets, edges, interfaces, and functional geometry. Add logically appropriate secondary and tertiary engineering details while preserving the original device form. Keep all lines clean, precise, non-sketchy, and vector-traceable on a pure white background. Output as an extremely high-resolution, high-pixel-density, uncompressed engineering diagram suitable for large-format print and single-click image trace.
+
+High Detail Drawing of Person
+-----------------------------
+ULTRA-CLEAN HIGH-DETAIL LINE ART FOR VECTOR TRACING of the attached person: centered, anatomically faithful, likeness-preserving, and richly detailed. Crisp black-and-white portrait drawing with perfectly sharp edges. No anti-aliasing, gray, gradients, texture, shadows, or background objects. Solid uniform black outlines with dense, deliberate internal linework defining facial planes, hairline, eyebrows, eyelids, irises, nose bridge, nostrils, lips, ears, jawline, cheek contours, neck, collarbones, clothing seams, folds, and upper-body structure. Add logically appropriate secondary and tertiary portrait details while preserving the subject’s exact proportions, expression, gaze, and identifying features. Keep all lines clean, precise, non-sketchy, and vector-traceable on a pure white background. No beautification, caricature, smoothing, or stylization. Output as an extremely high-resolution, high-pixel-density, uncompressed portrait diagram suitable for large-format print and single-click image trace. Preserve exact likeness; do not idealize, age-shift, stylize, or alter ethnicity, facial shape, or expression. Render hair as clean grouped masses and major strand flows, not thousands of fine stray hairs.

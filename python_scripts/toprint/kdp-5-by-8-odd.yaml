@@ -1,0 +1,93 @@
+# config.yaml - Full settings for converting your PDFs to print-ready format
+# Edit any value below, save the file, then run: python toprint.py config.yaml
+
+# -----------------------------
+# 1. IMAGE QUALITY SETTINGS
+# -----------------------------
+# How sharp the printed image will be. 300 is standard for high-quality printing.
+# Higher number = sharper print but larger file size.
+dpi: 600
+
+# -----------------------------
+# 2. PAGE SIZE SETTINGS (the actual paper size of each PDF page)
+# -----------------------------
+# Width of the final PDF page in inches (this includes the bleed area)
+page_width_inches: 5.125
+
+# Height of the final PDF page in inches (this includes the bleed area)
+page_height_inches: 8.25
+
+# -----------------------------
+# 3. CONTENT SIZE SETTINGS (the actual size your original image will be printed)
+# -----------------------------
+# Width of your label/content after trimming (the final visible size)
+trim_width_inches: 5.0
+
+# Height of your label/content after trimming (the final visible size)
+trim_height_inches: 8.0
+
+# -----------------------------
+# 4. CONTENT POSITION ON PAGE - ODD & EVEN PAGES
+# -----------------------------
+# Distance from the left edge of the page for ODD pages (right-hand pages)
+# Usually 0.0 because the bleed is only on the outside edge
+odd_page_content_x_offset_inches: 0.0
+
+# Distance from the left edge of the page for EVEN pages (left-hand pages)
+# Usually equal to the bleed amount so content is pushed inward
+even_page_content_x_offset_inches: 0.0
+
+# Distance from the top edge of the page for ALL pages
+# Usually equal to the bleed amount
+content_y_offset_inches: 0.125
+
+# -----------------------------
+# 5. OUTPUT SETTINGS
+# -----------------------------
+# Name of the folder where all processing happens
+# The script will delete this folder first and create a fresh one every time
+output_subdir: "TOPRINT"
+
+# Name of the final single PDF file that will remain in the TOPRINT folder
+combined_filename: "COMBINED.pdf"
+
+# -----------------------------
+# 6. FILENAME ON INDIVIDUAL PDF PAGES (before combining)
+# -----------------------------
+# Whether to print the original filename on each individual page
+# Change to true if you want to see filenames during testing
+print_filename: false
+
+# Font size of the filename text (in points) on individual pages
+filename_font_size: 12
+
+# Color of the filename text (Red, Green, Blue values from 0.0 to 1.0)
+filename_color: [0, 0, 0]
+
+# Where to put the filename on individual pages: "top" or "bottom"
+filename_position: "top"
+
+# How much space from the edge of the page for the filename
+filename_margin_inches: 0.25
+
+# -----------------------------
+# 7. FILENAME OVERLAY ON COMBINED PDF PAGES
+# -----------------------------
+# Whether to print the original filename at the top of every page in the final combined PDF
+print_filename_combined: false
+
+# Horizontal position (left margin) of the filename in the final PDF (in inches)
+combined_filename_x_offset_inches: 0.42
+
+# Vertical position (top margin) of the filename in the final PDF (in inches)
+combined_filename_y_offset_inches: 0.42
+
+# Font to use for the filename in the final PDF
+# Common options: Courier-Bold, Helvetica-Bold, Times-Roman, etc.
+combined_filename_font: "Courier-Bold"
+
+# Font size of the filename in the final PDF (in points)
+combined_filename_font_size: 12
+
+# Color of the filename in the final PDF (Red, Green, Blue values from 0.0 to 1.0)
+combined_filename_color: [0, 0, 0]
