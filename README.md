@@ -1,5 +1,9 @@
 This is the prompt for nano banana pro in aistudio.google.com or firefly.adobe.com to create manual ready black and white drawings.  
 
+Line Diagram
+------------
+Recreate the diagram as ultra-clean black-and-white vector-trace-ready line art. Use only uniform solid black outlines on a pure white background. All strokes must have the exact same thickness. Every object and contour must be a complete closed path with no open ends, gaps, overlaps, broken lines, fuzzy edges, gray tones, shadows, gradients, textures, or anti-aliasing. Lines must be cleanly separated and easy to isolate in Adobe Illustrator Image Trace. Do not use sketching, hatching, shading, or variable line weight. Traceability is the priority.
+
 
 Low Detail Drawing
 -------------------
