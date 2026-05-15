@@ -1,7 +1,7 @@
 TERM,DEFINITION,PAGES
-30-Second Rule,"If thunder sound is within 30 seconds of lightning flash, seek shelter.",A15
+30-Second Rule,"If thunder is heard within 30 seconds of a lightning flash, seek shelter.",A15
 Approach Angle,The steepest slope a vehicle can climb without the front bumper scraping the ground.,B05
-Belly Drag,"When the vehicle’s underside is stuck on the ground, making it hard to move.",B11
+Belly Drag,"When the vehicle's underside is stuck on the ground, making it hard to move.",B11
 Breakover Angle,The biggest hump a vehicle can drive over without scraping its belly.,B05
 Bridle,A V-shaped two-leg connection that shares the pull between two attachment points.,E09
 Bunny Hop,Emergency escape from ground electricity by hopping away with both feet together.,A17
@@ -10,8 +10,8 @@ Casualty Vehicle,See Disabled Vehicle.,B21
 Chock,Block placed against a tire to stop a vehicle from rolling.,G19
 Clevis Hook,A hook with a U-shaped pin-end that connects to chain or rigging hardware.,C31
 Clutch,Control that lets the winch pull with motor power or unwind freely by hand.,C09
-Contactor,See Solenoid.,"C03, C07, X07"
-Control Pack,"The winch’s electrical box. It holds the contactor or solenoids, control electronics, and wireless receiver (for the remote).",C07
+Contactor,See Solenoid.,"C03, X07"
+Control Pack,"The winch's electrical box. It holds the contactor or solenoids, control electronics, and wireless receiver (for the remote).",C07
 Core,The center part of a rope that supports the strands and helps the rope keep its shape.,C21
 D-Ring,A D-shaped metal ring fixed to a vehicle as a recovery attachment point.,C37
 Damper,A weighted blanket placed on a tensioned line to reduce whip if the line breaks.,"C53, D19"
@@ -23,11 +23,11 @@ Disabled Vehicle,"The vehicle that is stuck or disabled, and is being recovered.
 Double Line,Two shortening line legs sharing the load to create 2:1 MA.,E05
 Drum Layer,One level of rope wrapped around the winch drum.,"D15, G13"
 Duty Cycle,How long a machine can work before it needs a rest to prevent overheating.,E15
-Fairlead,The attachment in front of the winch that guides the line smoothly onto the drum.,"C07, C11"
+Fairlead,The attachment in front of the winch that guides the line smoothly onto the drum.,C11
 Fiber,A tiny thread of synthetic material used to build synthetic rope.,C13
 Field Margin,Extra safety allowance for real-world uncertainty.,E13
 Flash-to-Bang,"The seconds between seeing the lightning flash and hearing thunder, used to estimate how far away the storm is.",A15
-Fording Depth,"How deep can the vehicle be submerged in water, for a limited period of time",B05
+Fording Depth,The deepest water a vehicle can drive through safely.,B05
 Free Spool,Winch mode that lets the operator pull out line by hand without using the motor.,"C09, G13"
 Grade,The steepness of a slope.,E11
 Ground Clearance,Space between the lowest vehicle part and the ground.,B05
@@ -47,7 +47,7 @@ Kinetic Recovery,Using a stretchy rope or strap to pull a stuck vehicle free.,C6
 Lay of Rope,The direction the rope strands twist together.,C21
 Line Pull,Pulling force carried by the winch line.,E13
 Line Speed,How fast the winch line moves in or out.,F01
-Load Path,"The route pulling force takes through the winch line, hardware, anchor, and vehicle.",F03
+Load Path,"The route pulling force takes through the winch line, hardware, anchor, and vehicle.",D17
 MA,Mechanical Advantage; a setup that lets you pull more weight with less effort.,E07
 MBS,Minimum Breaking Strength; the lowest force that made the gear break during testing.,D05
 Minimum Drum Wraps,Required rope wraps left on the drum to keep the line safely secured to the winch.,C15
@@ -61,35 +61,35 @@ PPE,Personal Protective Equipment; safety gear the operator wears to protect the
 Pull Angle,The angle of winch line relative to ground.,E11
 Recovery Point,Safe pulling spot on a vehicle.,C61
 Recovery Ring,A smooth ring that redirects the winch line; it is not a pulley.,"C45, C47"
-Redirect,Rigging that changes the force’s direction without any mechanical advantage.,D11
+Redirect,Rigging that changes the force's direction without any mechanical advantage.,D11
 Remote,Hand control that lets the operator run the winch from a safer distance.,G09
 Rig Code,"Short code that describes the rig type, geometry, anchor, and mode of recovery.",F01
 RLP,Required Line Pull; how much pull is needed to move the disabled vehicle.,E13
 Roller Fairlead,"Fairlead with rotating rollers, used with wire rope.",C11
 Rolling Resistance,The force needed to keep a vehicle rolling in neutral.,B11
 Rope,"The complete line used for pulling, made from strands around a core.","C13, C23"
-Safe Zone,Area outside the danger area where people may stand.,"A09, D21, D23, D25"
-Safety Factor,Safety ration between the WLL and the MBS. Higher safety factor means more margin of safety.,C43
-Sheave,The wheel inside a pulley or snatch block that the rope runs over.,"C43, C45, C47"
-Shock Load,"A sudden force spike on the rig. It could be from slack, impact, or jerking.",F03
-Shortening Leg,A rope section that moves and gets shorter during the pull.,F21
+Safe Zone,Area outside the kill zone where people may stand.,"A09, D21, D23, D25"
+Safety Factor,Safety ratio between the WLL and the MBS. Higher safety factor means more margin of safety.,C43
+Sheave,The wheel inside a pulley or snatch block that the rope runs over.,C43
+Shock Load,"A sudden force spike on the rig. It could be from slack, impact, or jerking.",E29
+Shortening Leg,A rope section that moves and gets shorter during the pull.,F03
 Side Flash,"Lightning jumping from a tree, vehicle, or object to a nearby person.",A15
 Side Load,A sideways pull on gear that should only be pulled straight.,E09
 Single Line,Only one shortening leg of the rope in the pull.,E05
 Single Resource,One person or unit assigned to one specific task.,B03
-Slope Resistance,See Terrain multipliers,E11
+Slope Resistance,See Terrain Multiplier.,E11
 Snapback,When a tight rope or strap suddenly flies back after breaking or coming loose.,"D23, D25"
 Snatch Block,A side-opening pulley used to redirect line or add mechanical advantage.,C43
 Soft Shackle,A strong synthetic-rope loop used to connect recovery gear instead of a metal shackle.,C39
-Solenoid,The winch’s main power switch. It sends battery power to the motor and controls forward or reverse.,"C09, X07"
-Spanish Burton,A compound pulley setup that gives mechanical advantage. “Burton” is an old naval word for a small pulley system.,"F21, F25, F29"
-Spotter,Person who watches the operator’s blind spots and guides vehicle movement.,B03
-Static Anchor,A fixed object used as an anchor. It should not move.,B19
-Static Leg,A rope section that does not get shorter during the pull.,F21
+Solenoid,The winch's main power switch. It sends battery power to the motor and controls forward or reverse.,"C03, X07"
+Spanish Burton,A compound pulley setup that gives mechanical advantage. "Burton" is an old naval word for a small pulley system.,"F11, F25, F29"
+Spotter,Person who watches the operator's blind spots and guides vehicle movement.,B03
+Static Anchor,A fixed object used as an anchor. It should not move.,F03
+Static Leg,A rope section that does not get shorter during the pull.,F03
 Static Rope,A winch line that stays the same length during the pull.,F03
 Strand,"A main bundle inside a rope. In steel rope, it is made of wires. In synthetic rope, it is made of fibers or yarns.","C13, C21"
 Suction,Extra holding force from mire.,"B11, B15"
-Synthetic Rope,Winch line made from strong fiber.,"C13, C15, C17, C19, X03"
+Synthetic Rope,Winch line made from strong fiber.,C13
 Terrain Multiplier,Number that accounts for harder pulling on soft ground.,B13
 Thimble,Metal insert inside a rope loop that protects it from wear.,C33
 Tow Ball,Ball used for towing a trailer; never use it for recovery pulling.,C61
@@ -98,9 +98,9 @@ Tow Strap,"A low-stretch strap for slow, steady pulls; not a kinetic rope.","A05
 Traction,Grip between the tires and the ground.,B09
 Tree Saver,A wide strap wrapped around a tree to protect the bark and create an anchor.,C49
 Upward Streamer,Electricity reaching upward from the ground toward lightning.,A15
-Vehicle Anchor,A secured vehicle used as an anchor. It should not move., B21
+Vehicle Anchor,A secured vehicle used as an anchor. It should not move.,B21
 Whiplash,See Snapback.,"D23, D25"
 Winch Brake,Winch part that holds the load when the motor stops.,C09
 Wire,A single metal thread used to build a steel-rope strand.,C21
-Wire Rope,Winch line made from steel wires twisted into strands.,"C21, C23, C25"
-WLL,"Working Load Limit; the maximum load gear is rated to carry in normal use. Above this, gear can be permanently damaged.",D05
+Wire Rope,Winch line made from steel wires twisted into strands.,C21
+WLL,"Working Load Limit; the maximum load gear is rated to carry in normal use. Above this, gear can be permanently damaged.",D05
